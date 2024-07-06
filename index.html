@@ -1,65 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hari Shankar - Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Hari Shankar</h1>
-            <nav>
-                <ul>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet">
+		<title>Your name resume</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+	</head>
 
-    <main>
-        <section id="about" class="section">
-            <div class="container">
-                <h2>About Me</h2>
-                <p>I am a passionate and dedicated Junior Developer with experience in Python and JavaScript. Currently pursuing a degree in Computer Science with a focus on Cyber Security. I have completed internships in Cyber Security and Python development, and I am eager to contribute to innovative projects.</p>
-            </div>
-        </section>
-
-        <section id="portfolio" class="section">
-            <div class="container">
-                <h2>Portfolio</h2>
-                <div class="project">
-                    <h3>Project Title 1</h3>
-                    <p>Description of Project 1...</p>
-                    <a href="#">View Project</a>
-                </div>
-                <div class="project">
-                    <h3>Project Title 2</h3>
-                    <p>Description of Project 2...</p>
-                    <a href="#">View Project</a>
-                </div>
-                <!-- Add more projects as needed -->
-            </div>
-        </section>
-
-        <section id="contact" class="section">
-            <div class="container">
-                <h2>Contact Me</h2>
-                <p>Email: harishankar3618@gmail.com<br>Phone: +91 6352572587</p>
-                <!-- Add a contact form or other contact details here -->
-            </div>
-        </section>
-    </main>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2024 Hari Shankar. All rights reserved.</p>
-        </div>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
+	<body>
+		<header id="header">
+			<!-- resume header with your name and title -->
+			<h1>YOUR NAME</h1>
+			<hr>
+			YOUR TITLE
+			<hr>
+		</header>
+		<main>
+			<article id="mainLeft">
+				<section>
+					<h2>CONTACT</h2>
+					<!-- contact info including social media -->
+                    <p>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <a href="mailto:your-email@example.com">your-email@example.com</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-github" aria-hidden="true"></i>
+                        <a href="github.com/gh-username">gh-username</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-linkedin" aria-hidden="true"></i>
+                        <a href="linkedin.com/linkedin-username">linkedin-username</a>
+                    </p>
+				</section>
+				<section>
+					<h2>SKILLS</h2>
+					<!-- your skills -->
+                    <p>HTML, CSS, GitHub, VS Code...</p>
+				</section>
+				<section>
+					<h2>EDUCATION</h2>
+					<!-- your education -->
+                    <h3>YOUR MAJOR</h3>
+                    <p>
+                        Your university or school
+                    </p>
+                    <p>
+                        2018-2022
+                    </p>
+				</section>            
+			</article>
+			<article id="mainRight">
+				<section>
+					<h2>ABOUT</h2>
+					<!-- about you -->
+					<p>A brief paragraph about you and what kind of company you want to work for.</p>
+				</section>
+				<section>
+					<h2>WORK EXPERIENCE</h2>
+					<!-- your work experience -->
+                    <h3>JOB TITLE</h3>
+                    <p>
+                            Company Name | 2008 - 2010
+                    </p>
+                    <p>
+                            Describe what you did in this position with one summary sentence and no more than 3 bullet points with specific highlights
+                    </p>
+                    <ul>
+                            <li>Cool accomplishment</li>
+                            <li>Cool accomplishment</li>
+                            <li>Cool accomplishment</li>
+                    </ul>
+				</section>
+			</article>
+		</main>
+	</body>
 </html>
