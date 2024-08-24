@@ -1,8 +1,6 @@
-// script.js
-
 // Example function for displaying a message on click
 function showMessage() {
-    alert("Welcome to my portfolio!");
+    alert("Welcome to my cybersecurity-themed portfolio!");
 }
 
 // Attach the function to a button or link in your HTML
