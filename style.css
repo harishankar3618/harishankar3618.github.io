@@ -1,17 +1,17 @@
-/* Body Styling */
+/* Base Styling for Desktop */
 body {
     font-family: 'Orbitron', sans-serif;
     background-color: #121212;
     color: #ffffff;
-    max-width: 960px;
-    margin: auto;
+    margin: 0;
+    padding: 0;
 }
 
 /* Header Styling */
 header {
     text-align: center;
-    margin: auto 2em;
     padding-top: 2em;
+    margin: 0 2em;
 }
 
 header img#logo {
@@ -19,118 +19,77 @@ header img#logo {
     margin-bottom: 20px;
 }
 
-/* Styling for the contact information */
+/* Contact Info Styling */
 .contact-info {
     display: flex;
-    justify-content: center; /* Centers the items horizontally */
-    align-items: center; /* Centers the items vertically */
-    text-align: center; /* Ensures the text inside is centered */
-    margin: 10px 0;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 1em;
+    text-align: center;
 }
 
 .contact-info p {
-    margin: 0;
+    margin: 0 15px;
     font-size: 1rem;
+    display: inline-block;
 }
 
 .contact-info a {
     text-decoration: none;
-    color: #00ff00; /* Neon Green */
-    margin-left: 10px; /* Space between the items */
+    color: #007bff;
+    margin-left: 5px;
 }
 
 .contact-info i {
-    font-size: 1.2rem; /* Increase icon size */
-    color: #00ff00;
-    margin-right: 8px; /* Space between icon and link */
+    font-size: 1.5rem;
+    color: #555;
 }
 
-.contact-info a:hover {
-    color: #00d700; /* Darker green on hover */
-}
-
-/* Header & Section Styling */
-h1 {
-    font-size: 3em;
-    letter-spacing: .6em;
-    padding-bottom: 0.5em;
-    color: #00ff00; /* Neon Green */
-}
-
-h2 {
-    font-size: 1.5em;
-    padding-bottom: 1em;
-    border-bottom: 2px solid #00ff00; /* Neon Green */
-}
-
-h3 {
-    font-size: 1.2em;
-    padding-bottom: 0.5em;
-    color: #ff007f; /* Pink color */
-}
-
-/* Main Content Styling */
-main { 
+/* Main Content Layout */
+main {
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
+    padding: 0 1em;
 }
 
-/* Section Styling */
 section {
-    margin: 20px;
-    padding: 20px;
-    background-color: #1c1c1c; /* Dark background */
+    background-color: #1c1c1c;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 255, 0, 0.2); /* Neon Green glow */
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
+    margin-bottom: 20px;
 }
 
-i {
-    margin-right: .5em;
-}
-
-p {
-    margin: .5em auto;
-}
-
-hr {
-    border: none;
-    background-color: #00ff00; /* Neon Green */
-    height: 2px;
-}
-
-/* Skills Section Container */
+/* Skills Container */
 .skills-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive layout */
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 30px;
     margin-top: 20px;
 }
 
-/* Style for Each Skills Category */
 .skills-category {
-    background-color: #333; /* Dark background */
+    background-color: #f8f9fa;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
-    transition: all 0.3s ease;
 }
 
 .skills-category h3 {
     font-size: 1.2em;
     margin-bottom: 10px;
-    color: #00ff00; /* Neon Green */
+    color: #333;
 }
 
-/* Style for Icons */
 .skills-category i {
     font-size: 3em;
-    color: #00ff00; /* Neon Green */
+    color: #007bff;
     margin-bottom: 15px;
 }
 
-/* Style for the list of skills */
 .skills-category ul {
     list-style-type: none;
     padding: 0;
@@ -140,49 +99,22 @@ hr {
 .skills-category ul li {
     font-size: 1em;
     margin-bottom: 8px;
-    color: #ddd; /* Lighter gray text */
+    color: #555;
 }
 
-/* Hover effect for skills categories */
 .skills-category:hover {
     transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0, 255, 0, 0.2); /* Neon Green glow */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
 }
 
-/* Style for skill links */
 .skills-category a {
     text-decoration: none;
-    color: #00ff00; /* Neon Green */
+    color: #007bff;
 }
 
 .skills-category a:hover {
-    color: #00d700; /* Slightly darker green for hover effect */
-}
-
-/* Footer or Additional Section Styling */
-footer {
-    margin: 20px;
-    padding: 10px;
-    background-color: #1c1c1c; /* Dark background */
-    text-align: center;
-    color: #00ff00; /* Neon Green */
-}
-
-/* Contact and Skills Styling */
-p a {
-    color: #00ff00; /* Neon Green */
-    text-decoration: none;
-}
-
-p a:hover {
-    text-decoration: underline;
-    color: #00d700; /* Hover effect */
-}
-
-hr {
-    border: none;
-    background-color: #00ff00; /* Neon Green */
-    height: 2px;
+    color: #0056b3;
 }
 
 h1, h2, h3 {
@@ -190,6 +122,89 @@ h1, h2, h3 {
     margin-bottom: 0;
 }
 
-#mainLeft {
-    border-right: 1px solid #00ff00; /* Neon Green */
+/* Mobile-Specific Adjustments */
+@media screen and (max-width: 768px) {
+    /* Body Adjustments */
+    body {
+        padding: 0 20px; /* Add some padding for mobile */
+    }
+
+    /* Header Adjustments */
+    header {
+        padding-top: 1.5em;
+        margin: 0 1em;
+    }
+
+    header img#logo {
+        width: 120px; /* Resize logo for smaller screens */
+    }
+
+    /* Contact Info */
+    .contact-info {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .contact-info p {
+        margin: 10px 0;
+    }
+
+    .contact-info i {
+        font-size: 1.8rem; /* Increase icon size on mobile */
+    }
+
+    /* Main Content */
+    main {
+        grid-template-columns: 1fr; /* Stack the sections on mobile */
+    }
+
+    section {
+        width: 100%;
+    }
+
+    /* Skills Container */
+    .skills-container {
+        grid-template-columns: 1fr; /* Stack the skills categories */
+    }
+
+    /* Text Adjustments */
+    h1 {
+        font-size: 2.5em;
+    }
+
+    h2 {
+        font-size: 1.3em;
+    }
+
+    h3 {
+        font-size: 1.1em;
+    }
+
+    .skills-category i {
+        font-size: 2.5em; /* Resize icons */
+    }
+}
+
+/* Further Optimization for Extra Small Devices (like mobile phones) */
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 2.2em;
+    }
+
+    .contact-info a {
+        font-size: 0.9em;
+    }
+
+    .contact-info i {
+        font-size: 2rem; /* Adjust icon size */
+    }
+
+    .skills-category i {
+        font-size: 2rem; /* Adjust icons for smaller screens */
+    }
+
+    footer {
+        padding: 15px 10px;
+    }
 }
