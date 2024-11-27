@@ -22,30 +22,31 @@ header img#logo {
 /* Styling for the contact information */
 .contact-info {
     display: flex;
-    justify-content: space-between; /* Space out the contact items */
-    align-items: center; /* Vertically align items in the center */
-    flex-wrap: wrap; /* Allow wrapping if necessary on small screens */
+    justify-content: center; /* Centers the items horizontally */
+    align-items: center; /* Centers the items vertically */
+    text-align: center; /* Ensures the text inside is centered */
     margin: 10px 0;
 }
 
 .contact-info p {
-    margin: 0 15px; /* Add space between the contact items */
+    margin: 0;
     font-size: 1rem;
 }
 
 .contact-info a {
     text-decoration: none;
     color: #00ff00; /* Neon Green */
-    margin-left: 5px;
-}
-
-.contact-info a:hover {
-    color: #00d700; /* Slightly darker green for hover effect */
+    margin-left: 10px; /* Space between the items */
 }
 
 .contact-info i {
     font-size: 1.2rem; /* Increase icon size */
     color: #00ff00;
+    margin-right: 8px; /* Space between icon and link */
+}
+
+.contact-info a:hover {
+    color: #00d700; /* Darker green on hover */
 }
 
 /* Header & Section Styling */
