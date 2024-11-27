@@ -18,12 +18,14 @@ header img#logo {
     width: 150px;
     margin-bottom: 20px;
 }
+
 /* Styling for the contact information */
 .contact-info {
     display: flex;
     justify-content: space-between; /* Space out the contact items */
     align-items: center; /* Vertically align items in the center */
     flex-wrap: wrap; /* Allow wrapping if necessary on small screens */
+    margin: 10px 0;
 }
 
 .contact-info p {
@@ -33,37 +35,37 @@ header img#logo {
 
 .contact-info a {
     text-decoration: none;
-    color: #007bff;
+    color: #00ff00; /* Neon Green */
     margin-left: 5px;
+}
+
+.contact-info a:hover {
+    color: #00d700; /* Slightly darker green for hover effect */
 }
 
 .contact-info i {
     font-size: 1.2rem; /* Increase icon size */
-    color: #555;
+    color: #00ff00;
 }
 
-/* Optional: Hover effects */
-.contact-info a:hover {
-    color: #0056b3;
-}
-
+/* Header & Section Styling */
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
     padding-bottom: 0.5em;
-    color: #00ff00;
+    color: #00ff00; /* Neon Green */
 }
 
 h2 {
     font-size: 1.5em;
     padding-bottom: 1em;
-    border-bottom: 2px solid #00ff00;
+    border-bottom: 2px solid #00ff00; /* Neon Green */
 }
 
 h3 {
     font-size: 1.2em;
     padding-bottom: 0.5em;
-    color: #ff007f;
+    color: #ff007f; /* Pink color */
 }
 
 /* Main Content Styling */
@@ -77,9 +79,9 @@ main {
 section {
     margin: 20px;
     padding: 20px;
-    background-color: #1c1c1c;
+    background-color: #1c1c1c; /* Dark background */
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
+    box-shadow: 0 0 15px rgba(0, 255, 0, 0.2); /* Neon Green glow */
 }
 
 i {
@@ -92,7 +94,7 @@ p {
 
 hr {
     border: none;
-    background-color: #00ff00;
+    background-color: #00ff00; /* Neon Green */
     height: 2px;
 }
 
@@ -106,23 +108,24 @@ hr {
 
 /* Style for Each Skills Category */
 .skills-category {
-    background-color: #f8f9fa;
+    background-color: #333; /* Dark background */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
+    transition: all 0.3s ease;
 }
 
 .skills-category h3 {
     font-size: 1.2em;
     margin-bottom: 10px;
-    color: #333;
+    color: #00ff00; /* Neon Green */
 }
 
 /* Style for Icons */
 .skills-category i {
     font-size: 3em;
-    color: #007bff; /* Icon color */
+    color: #00ff00; /* Neon Green */
     margin-bottom: 15px;
 }
 
@@ -136,25 +139,50 @@ hr {
 .skills-category ul li {
     font-size: 1em;
     margin-bottom: 8px;
-    color: #555;
+    color: #ddd; /* Lighter gray text */
 }
 
 /* Hover effect for skills categories */
 .skills-category:hover {
     transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    transition: all 0.3s ease;
+    box-shadow: 0 8px 16px rgba(0, 255, 0, 0.2); /* Neon Green glow */
 }
 
+/* Style for skill links */
 .skills-category a {
     text-decoration: none;
-    color: #007bff;
+    color: #00ff00; /* Neon Green */
 }
 
 .skills-category a:hover {
-    color: #0056b3;
+    color: #00d700; /* Slightly darker green for hover effect */
 }
 
+/* Footer or Additional Section Styling */
+footer {
+    margin: 20px;
+    padding: 10px;
+    background-color: #1c1c1c; /* Dark background */
+    text-align: center;
+    color: #00ff00; /* Neon Green */
+}
+
+/* Contact and Skills Styling */
+p a {
+    color: #00ff00; /* Neon Green */
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+    color: #00d700; /* Hover effect */
+}
+
+hr {
+    border: none;
+    background-color: #00ff00; /* Neon Green */
+    height: 2px;
+}
 
 h1, h2, h3 {
     font-weight: 700;
@@ -162,24 +190,5 @@ h1, h2, h3 {
 }
 
 #mainLeft {
-    border-right: 1px solid #00ff00;
-}
-
-/* Contact and Skills Styling */
-p a {
-    color: #00ff00;
-    text-decoration: none;
-}
-
-p a:hover {
-    text-decoration: underline;
-}
-
-/* Footer or Additional Section Styling */
-footer {
-    margin: 20px;
-    padding: 10px;
-    background-color: #1c1c1c;
-    text-align: center;
-    color: #00ff00;
+    border-right: 1px solid #00ff00; /* Neon Green */
 }
