@@ -18,6 +18,34 @@ header img#logo {
     width: 150px;
     margin-bottom: 20px;
 }
+/* Styling for the contact information */
+.contact-info {
+    display: flex;
+    justify-content: space-between; /* Space out the contact items */
+    align-items: center; /* Vertically align items in the center */
+    flex-wrap: wrap; /* Allow wrapping if necessary on small screens */
+}
+
+.contact-info p {
+    margin: 0 15px; /* Add space between the contact items */
+    font-size: 1rem;
+}
+
+.contact-info a {
+    text-decoration: none;
+    color: #007bff;
+    margin-left: 5px;
+}
+
+.contact-info i {
+    font-size: 1.2rem; /* Increase icon size */
+    color: #555;
+}
+
+/* Optional: Hover effects */
+.contact-info a:hover {
+    color: #0056b3;
+}
 
 h1 {
     font-size: 3em;
