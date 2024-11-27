@@ -68,6 +68,66 @@ hr {
     height: 2px;
 }
 
+/* Skills Section Container */
+.skills-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive layout */
+    gap: 30px;
+    margin-top: 20px;
+}
+
+/* Style for Each Skills Category */
+.skills-category {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.skills-category h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Style for Icons */
+.skills-category i {
+    font-size: 3em;
+    color: #007bff; /* Icon color */
+    margin-bottom: 15px;
+}
+
+/* Style for the list of skills */
+.skills-category ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.skills-category ul li {
+    font-size: 1em;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+/* Hover effect for skills categories */
+.skills-category:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+.skills-category a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.skills-category a:hover {
+    color: #0056b3;
+}
+
+
 h1, h2, h3 {
     font-weight: 700;
     margin-bottom: 0;
