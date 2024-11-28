@@ -71,7 +71,7 @@ h3 {
     color: #ff007f; /* Pink color */
 }
 
-/* Section Styling */
+/* Main Section Styling */
 section {
     margin: 20px;
     padding: 20px;
@@ -108,7 +108,7 @@ hr {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    text-align: center;
+    text-align: left; /* Align text to the left */
     transition: all 0.3s ease;
 }
 
