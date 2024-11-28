@@ -20,10 +20,10 @@ header img#logo {
     margin-bottom: 20px;
 }
 
-/* Neon Green Text and Glowing Effect */
+/* Simplified Cyber Green Effect */
 header h1, header h2, h3 {
     color: #00ff00;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 40px #00ff00;
+    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
     font-weight: 700;
     margin-bottom: 0;
 }
@@ -31,31 +31,29 @@ header h1, header h2, h3 {
 /* Contact Info Styling */
 .contact-info {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    margin-top: 1.5em;
-    text-align: center;
+    justify-content: center; /* Horizontally center */
+    align-items: center;     /* Vertically center */
+    flex-wrap: wrap;         /* Allow items to wrap on smaller screens */
+    margin-top: 1em;
+    text-align: center;      /* Center text inside the items */
 }
 
 .contact-info p {
-    margin: 0 20px;
+    margin: 0 15px;
     font-size: 1rem;
     display: inline-block;
-    color: #ffffff;
 }
 
 .contact-info a {
     text-decoration: none;
-    color: #00ff00;
+    color: #00ff00; /* Cyber green color */
     margin-left: 5px;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
+    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00; /* Subtle glow effect */
 }
 
 .contact-info i {
     font-size: 1.5rem;
-    color: #00ff00;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
+    color: #555;
 }
 
 /* Main Content Layout */
@@ -64,7 +62,6 @@ main {
     grid-template-columns: 40% 60%;
     margin-top: 3em;
     padding: 0 1em;
-    gap: 2em;
 }
 
 section {
@@ -73,12 +70,6 @@ section {
     padding: 20px;
     box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
     margin-bottom: 20px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-section:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 0 20px rgba(0, 255, 0, 0.5);
 }
 
 /* Skills Container */
@@ -95,26 +86,18 @@ section:hover {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.skills-category:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
 }
 
 .skills-category h3 {
     font-size: 1.2em;
     margin-bottom: 10px;
-    color: #00ff00;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
+    color: #333;
 }
 
 .skills-category i {
     font-size: 3em;
     color: #00ff00;
     margin-bottom: 15px;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
 }
 
 .skills-category ul {
@@ -126,32 +109,27 @@ section:hover {
 .skills-category ul li {
     font-size: 1em;
     margin-bottom: 8px;
-    color: #ffffff;
+    color: #555;
+}
+
+.skills-category:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
 }
 
 .skills-category a {
     text-decoration: none;
     color: #00ff00;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
 }
 
 .skills-category a:hover {
-    color: #00b300;
+    color: #0056b3;
 }
 
 h1, h2, h3 {
     font-weight: 700;
     margin-bottom: 0;
-}
-
-/* Footer Styling */
-footer {
-    text-align: center;
-    padding: 2em 1em;
-    background-color: #1c1c1c;
-    margin-top: 2em;
-    color: #00ff00;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
 }
 
 /* Media Queries for Responsiveness */
@@ -181,7 +159,7 @@ footer {
     }
 
     .contact-info i {
-        font-size: 1.8rem; /* Increase icon size on mobile */
+        font-size: 2rem; /* Increase icon size on mobile */
     }
 
     main {
@@ -210,10 +188,6 @@ footer {
 
     .skills-category i {
         font-size: 2.5em; /* Resize icons */
-    }
-
-    footer {
-        padding: 1.5em 0;
     }
 }
 
