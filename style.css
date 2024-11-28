@@ -1,12 +1,12 @@
 /* Body Styling */
 body {
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Roboto Mono', monospace; /* Modern, techy font */
     background-color: #121212;
     color: #ffffff;
     max-width: 960px;
-    margin: 0 auto; /* Centering body on screen */
+    margin: 0 auto;
     padding: 20px;
-    box-sizing: border-box; /* Ensuring padding doesn't affect width */
+    box-sizing: border-box;
 }
 
 /* Header Styling */
@@ -25,10 +25,10 @@ header img#logo {
 .contact-info {
     display: flex;
     justify-content: center; /* Center the contact items */
-    align-items: center; /* Vertically align items */
-    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    align-items: center;
+    flex-wrap: wrap;
     margin: 10px 0;
-    text-align: center; /* Center text */
+    text-align: center; /* Center the text */
 }
 
 .contact-info p {
@@ -71,19 +71,11 @@ h3 {
     color: #ff007f; /* Pink color */
 }
 
-/* Main Content Styling */
-main {
-    display: grid;
-    grid-template-columns: 40% 60%;
-    margin-top: 3em;
-    gap: 30px; /* Add some space between columns */
-}
-
 /* Section Styling */
 section {
     margin: 20px;
     padding: 20px;
-    background-color: #1c1c1c; /* Dark background */
+    background-color: #1c1c1c;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 255, 0, 0.2); /* Neon Green glow */
 }
@@ -98,7 +90,7 @@ p {
 
 hr {
     border: none;
-    background-color: #00ff00; /* Neon Green */
+    background-color: #00ff00;
     height: 2px;
 }
 
@@ -112,7 +104,7 @@ hr {
 
 /* Style for Each Skills Category */
 .skills-category {
-    background-color: #333; /* Dark background */
+    background-color: #333;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -166,14 +158,14 @@ hr {
 footer {
     margin: 20px;
     padding: 10px;
-    background-color: #1c1c1c; /* Dark background */
+    background-color: #1c1c1c;
     text-align: center;
     color: #00ff00; /* Neon Green */
 }
 
 /* Contact and Skills Styling */
 p a {
-    color: #00ff00; /* Neon Green */
+    color: #00ff00;
     text-decoration: none;
 }
 
@@ -184,7 +176,7 @@ p a:hover {
 
 hr {
     border: none;
-    background-color: #00ff00; /* Neon Green */
+    background-color: #00ff00;
     height: 2px;
 }
 
@@ -202,7 +194,7 @@ h1, h2, h3 {
 /* Mobile-Specific Adjustments (max-width: 768px) */
 @media screen and (max-width: 768px) {
     body {
-        padding: 0 20px; /* Add padding for mobile */
+        padding: 0 20px;
     }
 
     header {
@@ -211,7 +203,7 @@ h1, h2, h3 {
     }
 
     header img#logo {
-        width: 120px; /* Resize logo for smaller screens */
+        width: 120px;
     }
 
     .contact-info {
@@ -224,11 +216,7 @@ h1, h2, h3 {
     }
 
     .contact-info i {
-        font-size: 1.8rem; /* Increase icon size */
-    }
-
-    main {
-        grid-template-columns: 1fr; /* Stack content for mobile */
+        font-size: 1.8rem;
     }
 
     section {
@@ -236,7 +224,7 @@ h1, h2, h3 {
     }
 
     .skills-container {
-        grid-template-columns: 1fr; /* Stack skills categories */
+        grid-template-columns: 1fr;
     }
 
     h1 {
@@ -252,7 +240,7 @@ h1, h2, h3 {
     }
 
     .skills-category i {
-        font-size: 2.5em; /* Resize icons for mobile */
+        font-size: 2.5em;
     }
 }
 
@@ -267,11 +255,11 @@ h1, h2, h3 {
     }
 
     .contact-info i {
-        font-size: 2rem; /* Adjust icon size */
+        font-size: 2rem;
     }
 
     .skills-category i {
-        font-size: 2rem; /* Adjust icons for smaller screens */
+        font-size: 2rem;
     }
 
     footer {
