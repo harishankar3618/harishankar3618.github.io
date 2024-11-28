@@ -7,9 +7,12 @@ body {
     margin: auto;
 }
 
-how about this
 /* Header Styling */
 header {
+    display: flex;
+    flex-direction: column; /* Stack the header elements */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
     text-align: center;
     margin: auto 2em;
     padding-top: 2em;
@@ -23,7 +26,7 @@ header img#logo {
 /* Styling for the contact information */
 .contact-info {
     display: flex;
-    justify-content: space-between; /* Space out the contact items */
+    justify-content: center; /* Center the contact items */
     align-items: center; /* Vertically align items in the center */
     flex-wrap: wrap; /* Allow wrapping if necessary on small screens */
     margin: 10px 0;
