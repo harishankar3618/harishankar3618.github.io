@@ -1,4 +1,3 @@
-/* Body Styling */
 body {
     font-family: 'Orbitron', sans-serif;
     background-color: #121212;
@@ -6,169 +5,90 @@ body {
     max-width: 960px;
     margin: 0;
     padding: 0;
-    height: 100vh; /* Full height */
+    height: 100vh;
     display: flex;
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    flex-direction: column; /* Stack content vertically */
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
 }
 
-/* Header Styling */
 header {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     text-align: center;
     margin-bottom: 2em;
 }
 
-/* Styling for the Contact Me Section */
 .contact-info {
     display: flex;
-    justify-content: center; /* Center the contact items horizontally */
-    align-items: center; /* Vertically align items in the center */
-    flex-direction: column; /* Stack items vertically */
-    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     margin: 10px 0;
 }
 
-/* Contact Text Styling */
 .contact-info p {
     margin: 10px 0;
     font-size: 1.2rem;
-    color: #ffffff; /* White text for contrast */
+    color: #ffffff;
 }
 
-/* Contact Link Styling */
 .contact-info a {
     text-decoration: none;
-    color: #00ff00; /* Neon Green */
+    color: #00ff00;
     margin: 5px 0;
     font-size: 1.1rem;
 }
 
 .contact-info a:hover {
-    color: #00d700; /* Slightly darker green for hover effect */
+    color: #ffcc00;
 }
 
-/* Contact Icon Styling */
-.contact-info i {
-    font-size: 1.5rem; /* Increase icon size */
-    color: #00ff00;
-    margin-right: 10px;
-}
-
-/* Header Styling */
-h1 {
-    font-size: 3em;
-    letter-spacing: .6em;
-    padding-bottom: 0.5em;
-    color: #00ff00; /* Neon Green */
-    margin-bottom: 1em;
-}
-
-/* Subtitle Styling */
-h2 {
-    font-size: 1.5em;
-    padding-bottom: 1em;
-    border-bottom: 2px solid #00ff00; /* Neon Green */
-    color: #00ff00;
-}
-
-h3 {
-    font-size: 1.2em;
-    padding-bottom: 0.5em;
-    color: #ff007f; /* Pink color */
-}
-
-/* Main Content Layout */
 main {
     display: grid;
-    grid-template-columns: 40% 60%;
-    margin-top: 3em;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
+    padding: 2rem;
 }
 
-/* Section Styling */
-section {
-    margin: 20px;
+article {
+    background: #222;
     padding: 20px;
-    background-color: #1c1c1c; /* Dark background */
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 255, 0, 0.2); /* Neon Green glow */
 }
 
-/* Skills Section Layout */
+section h2 {
+    color: #00ff00;
+}
+
 .skills-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive layout */
-    gap: 30px;
-    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
-/* Skills Category Styling */
 .skills-category {
-    background-color: #333;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: #333;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
     text-align: center;
-    transition: all 0.3s ease;
+}
+
+.skills-category i {
+    font-size: 2rem;
+    margin-bottom: 10px;
 }
 
 .skills-category h3 {
-    font-size: 1.2em;
-    margin-bottom: 10px;
-    color: #00ff00; /* Neon Green */
+    color: #ffcc00;
 }
 
-/* Icon Style */
-.skills-category i {
-    font-size: 3em;
-    color: #00ff00; /* Neon Green */
-    margin-bottom: 15px;
-}
-
-/* Skills List Styling */
-.skills-category ul {
+ul {
     list-style-type: none;
     padding: 0;
-    margin: 0;
 }
 
-.skills-category ul li {
-    font-size: 1em;
-    margin-bottom: 8px;
-    color: #ddd; /* Lighter gray text */
-}
-
-/* Hover Effect for Skills */
-.skills-category:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0, 255, 0, 0.2); /* Neon Green glow */
-}
-
-/* Footer Styling */
-footer {
-    margin: 20px;
-    padding: 10px;
-    background-color: #1c1c1c; /* Dark background */
-    text-align: center;
-    color: #00ff00; /* Neon Green */
-}
-
-/* Contact Styling Links */
-p a {
-    color: #00ff00;
-    text-decoration: none;
-}
-
-p a:hover {
-    text-decoration: underline;
-    color: #00d700;
-}
-
-/* Border for Main Section Left */
-#mainLeft {
-    border-right: 1px solid #00ff00;
+ul li {
+    font-size: 1rem;
+    color: #ffffff;
+    margin: 5px 0;
 }
