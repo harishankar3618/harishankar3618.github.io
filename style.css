@@ -1,18 +1,19 @@
-/* Base Styling for Desktop */
+/* Body Styling */
 body {
     font-family: 'Orbitron', sans-serif;
     background-color: #121212;
     color: #ffffff;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box; /* Ensure consistent box sizing */
+    max-width: 960px;
+    margin: 0 auto; /* Centering body on screen */
+    padding: 20px;
+    box-sizing: border-box; /* Ensuring padding doesn't affect width */
 }
 
 /* Header Styling */
 header {
     text-align: center;
-    padding-top: 3em;
-    margin: 0 2em;
+    margin: auto 2em;
+    padding-top: 2em;
 }
 
 header img#logo {
@@ -20,86 +21,119 @@ header img#logo {
     margin-bottom: 20px;
 }
 
-/* Simplified Cyber Green Effect */
-header h1, header h2, h3 {
-    color: #00ff00;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00;
-    font-weight: 700;
-    margin-bottom: 0;
-}
-
-/* Contact Info Styling */
+/* Styling for the contact information */
 .contact-info {
     display: flex;
-    justify-content: center; /* Horizontally center */
-    align-items: center;     /* Vertically center */
-    flex-wrap: wrap;         /* Allow items to wrap on smaller screens */
-    margin-top: 1em;
-    text-align: center;      /* Center text inside the items */
+    justify-content: center; /* Center the contact items */
+    align-items: center; /* Vertically align items */
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    margin: 10px 0;
+    text-align: center; /* Center text */
 }
 
 .contact-info p {
     margin: 0 15px;
     font-size: 1rem;
-    display: inline-block;
 }
 
 .contact-info a {
     text-decoration: none;
-    color: #00ff00; /* Cyber green color */
+    color: #00ff00; /* Neon Green */
     margin-left: 5px;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00; /* Subtle glow effect */
+}
+
+.contact-info a:hover {
+    color: #00d700; /* Darker green for hover */
 }
 
 .contact-info i {
-    font-size: 1.5rem;
-    color: #555;
+    font-size: 1.2rem;
+    color: #00ff00;
 }
 
-/* Main Content Layout */
+/* Header & Section Styling */
+h1 {
+    font-size: 3em;
+    letter-spacing: 0.6em;
+    padding-bottom: 0.5em;
+    color: #00ff00; /* Neon Green */
+}
+
+h2 {
+    font-size: 1.5em;
+    padding-bottom: 1em;
+    border-bottom: 2px solid #00ff00; /* Neon Green */
+}
+
+h3 {
+    font-size: 1.2em;
+    padding-bottom: 0.5em;
+    color: #ff007f; /* Pink color */
+}
+
+/* Main Content Styling */
 main {
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
-    padding: 0 1em;
+    gap: 30px; /* Add some space between columns */
 }
 
+/* Section Styling */
 section {
-    background-color: #1c1c1c;
-    border-radius: 10px;
+    margin: 20px;
     padding: 20px;
-    box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
-    margin-bottom: 20px;
+    background-color: #1c1c1c; /* Dark background */
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 255, 0, 0.2); /* Neon Green glow */
 }
 
-/* Skills Container */
+i {
+    margin-right: 0.5em;
+}
+
+p {
+    margin: 0.5em auto;
+}
+
+hr {
+    border: none;
+    background-color: #00ff00; /* Neon Green */
+    height: 2px;
+}
+
+/* Skills Section Container */
 .skills-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive layout */
     gap: 30px;
     margin-top: 20px;
 }
 
+/* Style for Each Skills Category */
 .skills-category {
-    background-color: #f8f9fa;
+    background-color: #333; /* Dark background */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
+    transition: all 0.3s ease;
 }
 
 .skills-category h3 {
     font-size: 1.2em;
     margin-bottom: 10px;
-    color: #333;
+    color: #00ff00; /* Neon Green */
 }
 
+/* Style for Icons */
 .skills-category i {
     font-size: 3em;
-    color: #00ff00;
+    color: #00ff00; /* Neon Green */
     margin-bottom: 15px;
 }
 
+/* Style for the list of skills */
 .skills-category ul {
     list-style-type: none;
     padding: 0;
@@ -109,22 +143,49 @@ section {
 .skills-category ul li {
     font-size: 1em;
     margin-bottom: 8px;
-    color: #555;
+    color: #ddd; /* Lighter gray text */
 }
 
+/* Hover effect for skills categories */
 .skills-category:hover {
     transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    transition: all 0.3s ease;
+    box-shadow: 0 8px 16px rgba(0, 255, 0, 0.2); /* Neon Green glow */
 }
 
+/* Style for skill links */
 .skills-category a {
     text-decoration: none;
-    color: #00ff00;
+    color: #00ff00; /* Neon Green */
 }
 
 .skills-category a:hover {
-    color: #0056b3;
+    color: #00d700; /* Slightly darker green for hover effect */
+}
+
+/* Footer or Additional Section Styling */
+footer {
+    margin: 20px;
+    padding: 10px;
+    background-color: #1c1c1c; /* Dark background */
+    text-align: center;
+    color: #00ff00; /* Neon Green */
+}
+
+/* Contact and Skills Styling */
+p a {
+    color: #00ff00; /* Neon Green */
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+    color: #00d700; /* Hover effect */
+}
+
+hr {
+    border: none;
+    background-color: #00ff00; /* Neon Green */
+    height: 2px;
 }
 
 h1, h2, h3 {
@@ -132,12 +193,16 @@ h1, h2, h3 {
     margin-bottom: 0;
 }
 
+#mainLeft {
+    border-right: 1px solid #00ff00; /* Neon Green */
+}
+
 /* Media Queries for Responsiveness */
 
 /* Mobile-Specific Adjustments (max-width: 768px) */
 @media screen and (max-width: 768px) {
     body {
-        padding: 0 20px; /* Add some padding for mobile */
+        padding: 0 20px; /* Add padding for mobile */
     }
 
     header {
@@ -150,7 +215,7 @@ h1, h2, h3 {
     }
 
     .contact-info {
-        flex-direction: column;
+        flex-direction: column; /* Stack contact info vertically */
         align-items: center;
     }
 
@@ -159,11 +224,11 @@ h1, h2, h3 {
     }
 
     .contact-info i {
-        font-size: 2rem; /* Increase icon size on mobile */
+        font-size: 1.8rem; /* Increase icon size */
     }
 
     main {
-        grid-template-columns: 1fr; /* Stack the sections on mobile */
+        grid-template-columns: 1fr; /* Stack content for mobile */
     }
 
     section {
@@ -171,7 +236,7 @@ h1, h2, h3 {
     }
 
     .skills-container {
-        grid-template-columns: 1fr; /* Stack the skills categories */
+        grid-template-columns: 1fr; /* Stack skills categories */
     }
 
     h1 {
@@ -187,7 +252,7 @@ h1, h2, h3 {
     }
 
     .skills-category i {
-        font-size: 2.5em; /* Resize icons */
+        font-size: 2.5em; /* Resize icons for mobile */
     }
 }
 
