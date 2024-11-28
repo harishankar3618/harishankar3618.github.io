@@ -1,26 +1,27 @@
+
 /* Body Styling */
 body {
     font-family: 'Orbitron', sans-serif;
     background-color: #121212;
     color: #ffffff;
     max-width: 960px;
-    margin: auto;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Full screen height */
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    flex-direction: column; /* Stack the elements vertically */
 }
 
 /* Header Styling */
 header {
     display: flex;
-    flex-direction: column; /* Stack the header elements */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    margin: auto 2em;
-    padding-top: 2em;
-}
-
-header img#logo {
-    width: 150px;
-    margin-bottom: 20px;
+    margin-bottom: 2em;
 }
 
 /* Styling for the contact information */
@@ -28,19 +29,22 @@ header img#logo {
     display: flex;
     justify-content: center; /* Center the contact items */
     align-items: center; /* Vertically align items in the center */
-    flex-wrap: wrap; /* Allow wrapping if necessary on small screens */
+    flex-direction: column; /* Stack items vertically */
+    text-align: center;
     margin: 10px 0;
 }
 
+/* Center the links inside the contact-info */
 .contact-info p {
-    margin: 0 15px; /* Add space between the contact items */
-    font-size: 1rem;
+    margin: 10px 0;
+    font-size: 1.2rem;
 }
 
 .contact-info a {
     text-decoration: none;
     color: #00ff00; /* Neon Green */
-    margin-left: 5px;
+    margin: 5px 0;
+    font-size: 1.1rem;
 }
 
 .contact-info a:hover {
@@ -48,8 +52,9 @@ header img#logo {
 }
 
 .contact-info i {
-    font-size: 1.2rem; /* Increase icon size */
+    font-size: 1.5rem; /* Increase icon size */
     color: #00ff00;
+    margin-right: 10px;
 }
 
 /* Header & Section Styling */
@@ -71,6 +76,7 @@ h3 {
     padding-bottom: 0.5em;
     color: #ff007f; /* Pink color */
 }
+
 
 /* Main Content Styling */
 main { 
