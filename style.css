@@ -66,7 +66,7 @@ h2 {
 h3 {
     font-size: 1.2em;
     padding-bottom: 0.5em;
-    color: #ff007f; /* Pink color */
+    color: #00ff00;; /* Neon color */
 }
 
 /* Main Content Styling */
@@ -120,12 +120,13 @@ hr {
 .skills-category h3 {
     font-size: 1.2em;
     margin-bottom: 10px;
+    align-items: center;
     color: #00ff00; /* Neon Green */
 }
 
 /* Style for Icons */
-.skills-category i {
-    font-size: 3em;
+.skills-category h3 i {
+    font-size: 1.2em;
     color: #00ff00; /* Neon Green */
     margin-bottom: 15px;
 }
@@ -158,7 +159,29 @@ hr {
 .skills-category a:hover {
     color: #00d700; /* Slightly darker green for hover effect */
 }
-
+.education-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive layout */
+    gap: 30px;
+    margin-top: 20px;
+}
+.education-category {
+    background-color: #333; /* Dark background */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: all 0.3s ease;    
+}
+.education-category:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 255, 0, 0.2); /* Neon Green glow */
+}
+.education-category h3{
+    font-size: 1.2em;
+    color: #00ff00; /* Neon Green */
+    margin-bottom: 15px;
+}
 /* Footer or Additional Section Styling */
 footer {
     margin: 20px;
