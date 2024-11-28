@@ -1,14 +1,13 @@
 /* Body Styling */
 body {
-    font-family: 'Roboto Mono', monospace; /* Modern, techy font */
+    font-family: 'Orbitron', sans-serif;
     background-color: #121212;
     color: #ffffff;
     max-width: 960px;
-    margin: 0 auto;
-    padding: 20px;
-    box-sizing: border-box;
+    margin: auto;
 }
 
+how about this
 /* Header Styling */
 header {
     text-align: center;
@@ -24,15 +23,14 @@ header img#logo {
 /* Styling for the contact information */
 .contact-info {
     display: flex;
-    justify-content: center; /* Center the contact items */
-    align-items: center;
-    flex-wrap: wrap;
+    justify-content: space-between; /* Space out the contact items */
+    align-items: center; /* Vertically align items in the center */
+    flex-wrap: wrap; /* Allow wrapping if necessary on small screens */
     margin: 10px 0;
-    text-align: center; /* Center the text */
 }
 
 .contact-info p {
-    margin: 0 15px;
+    margin: 0 15px; /* Add space between the contact items */
     font-size: 1rem;
 }
 
@@ -43,18 +41,18 @@ header img#logo {
 }
 
 .contact-info a:hover {
-    color: #00d700; /* Darker green for hover */
+    color: #00d700; /* Slightly darker green for hover effect */
 }
 
 .contact-info i {
-    font-size: 1.2rem;
+    font-size: 1.2rem; /* Increase icon size */
     color: #00ff00;
 }
 
 /* Header & Section Styling */
 h1 {
     font-size: 3em;
-    letter-spacing: 0.6em;
+    letter-spacing: .6em;
     padding-bottom: 0.5em;
     color: #00ff00; /* Neon Green */
 }
@@ -71,26 +69,33 @@ h3 {
     color: #ff007f; /* Pink color */
 }
 
-/* Main Section Styling */
+/* Main Content Styling */
+main { 
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin-top: 3em;
+}
+
+/* Section Styling */
 section {
     margin: 20px;
     padding: 20px;
-    background-color: #1c1c1c;
+    background-color: #1c1c1c; /* Dark background */
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 255, 0, 0.2); /* Neon Green glow */
 }
 
 i {
-    margin-right: 0.5em;
+    margin-right: .5em;
 }
 
 p {
-    margin: 0.5em auto;
+    margin: .5em auto;
 }
 
 hr {
     border: none;
-    background-color: #00ff00;
+    background-color: #00ff00; /* Neon Green */
     height: 2px;
 }
 
@@ -104,11 +109,11 @@ hr {
 
 /* Style for Each Skills Category */
 .skills-category {
-    background-color: #333;
+    background-color: #333; /* Dark background */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    text-align: left; /* Align text to the left */
+    text-align: center;
     transition: all 0.3s ease;
 }
 
@@ -158,14 +163,14 @@ hr {
 footer {
     margin: 20px;
     padding: 10px;
-    background-color: #1c1c1c;
+    background-color: #1c1c1c; /* Dark background */
     text-align: center;
     color: #00ff00; /* Neon Green */
 }
 
 /* Contact and Skills Styling */
 p a {
-    color: #00ff00;
+    color: #00ff00; /* Neon Green */
     text-decoration: none;
 }
 
@@ -176,7 +181,7 @@ p a:hover {
 
 hr {
     border: none;
-    background-color: #00ff00;
+    background-color: #00ff00; /* Neon Green */
     height: 2px;
 }
 
@@ -187,102 +192,4 @@ h1, h2, h3 {
 
 #mainLeft {
     border-right: 1px solid #00ff00; /* Neon Green */
-}
-
-/* Media Queries for Responsiveness */
-
-/* Mobile-Specific Adjustments (max-width: 768px) */
-@media screen and (max-width: 768px) {
-    body {
-        padding: 0 20px;
-    }
-
-    header {
-        padding-top: 1.5em;
-        margin: 0 1em;
-    }
-
-    header img#logo {
-        width: 120px;
-    }
-
-    .contact-info {
-        flex-direction: column; /* Stack contact info vertically */
-        align-items: center;
-    }
-
-    .contact-info p {
-        margin: 10px 0;
-    }
-
-    .contact-info i {
-        font-size: 1.8rem;
-    }
-
-    section {
-        width: 100%;
-    }
-
-    .skills-container {
-        grid-template-columns: 1fr;
-    }
-
-    h1 {
-        font-size: 2.5em;
-    }
-
-    h2 {
-        font-size: 1.3em;
-    }
-
-    h3 {
-        font-size: 1.1em;
-    }
-
-    .skills-category i {
-        font-size: 2.5em;
-    }
-}
-
-/* Further Optimization for Extra Small Devices (max-width: 480px) */
-@media screen and (max-width: 480px) {
-    h1 {
-        font-size: 2.2em;
-    }
-
-    .contact-info a {
-        font-size: 0.9em;
-    }
-
-    .contact-info i {
-        font-size: 2rem;
-    }
-
-    .skills-category i {
-        font-size: 2rem;
-    }
-
-    footer {
-        padding: 15px 10px;
-    }
-}
-
-/* Desktop-Specific Adjustments (min-width: 1024px) */
-@media screen and (min-width: 1024px) {
-    .contact-info {
-        flex-direction: row;
-        justify-content: space-between;
-    }
-
-    .skills-container {
-        grid-template-columns: repeat(3, 1fr);
-    }
-
-    .skills-category h3 {
-        font-size: 1.5em;
-    }
-
-    .skills-category i {
-        font-size: 4em;
-    }
 }
