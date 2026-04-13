@@ -1,283 +1,658 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hari Shankar - Cybersecurity Analyst</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
-    <script defer src="script.js"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hari Shankar — Full-Stack Security Engineer</title>
+  <meta name="description" content="Full-Stack Engineer building secure, production-grade systems end-to-end. MERN · Flask · Laravel · VAPT · OWASP." />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
 </head>
-<body class="dark:bg-gray-900 dark:text-white relative">
-    <div id="particles-js" class="absolute top-0 left-0"></div>
-    
-    <div class="container mx-auto px-4 relative z-10">
+<body>
 
-        <header class="py-16 text-center">
-            <div class="glass-card p-8 rounded-xl shadow-lg">
-                <img src="assets/profile.jpg" alt="Hari Shankar" class="mx-auto rounded-full w-48 h-48 object-cover mb-4 border-4 border-blue-500">
-                <h1 class="text-4xl font-bold mb-2">Hari Shankar Bakkamanthula</h1>
-                <p class="text-xl text-blue-600 dark:text-blue-400">Cybersecurity Analyst | Ethical Hacker | CTF player</p>
-                <div class="mt-4 flex justify-center space-x-4">
-                    <a href="tel:+917330920531" class="text-gray-600 dark:text-gray-300 hover:text-blue-600">
-                        <i class="fas fa-phone"></i> +91-7330920531
-                    </a>
-                    <a href="mailto:harishankar3618@gmail.com" class="text-gray-600 dark:text-gray-300 hover:text-blue-600">
-                        <i class="fas fa-envelope"></i> harishankar3618@gmail.com
-                    </a>
-                    <a href="https://github.com/harishankar3618" class="text-gray-600 dark:text-gray-300 hover:text-blue-600">
-                        <i class="fab fa-github mr-2"></i> harishankar3618
-                    </a>
-                    <a href="https://www.linkedin.com/in/harishankar3618/" class="text-gray-600 dark:text-gray-300 hover:text-blue-600">
-                        <i class="fab fa-linkedin"></i> harishankar3618
-                    </a>
-                </div>
-            </div>
-        </header>
-
-        <section class="my-12">
-            <div class="glass-card p-8 rounded-xl">
-                <h2 class="text-3xl font-semibold mb-6">About Me</h2>
-                <p class="text-lg">
-                    I am a passionate Cybersecurity student and aspiring Security Analyst specializing in Vulnerability Assessment and Penetration Testing (VAPT). I am currently pursuing B.Tech Computer Science Engineering in Cybersecurity at Parul University. I have hands-on experience in web and network security projects and am skilled in tools like Nmap, Burp Suite, Metasploit, and Wireshark. I actively participate in CTF competitions and have worked on real-world projects like malware detection systems, phishing detection, and contributing to production web applications such as TullyMusic.io. My goal is to grow in the security domain, applying my skills in threat detection, vulnerability management, and incident response.
-                </p>
-                <div class="mt-6">
-                    <a href="assets/hari_shankar_resume.pdf" id="download-resume" class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-300">
-                        <i class="fas fa-download mr-2"></i>Download Resume
-                    </a>
-                </div>
-            </div>
-        </section>
-        <section class="my-12">
-            <div class="glass-card p-8 rounded-xl">
-                <h2 class="text-3xl font-semibold mb-6">Key Expertise</h2>
-                <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                    <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg text-center skill-badge">VAPT (Web & Network)</div>
-                    <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg text-center skill-badge">Web Application Security (OWASP)</div>
-                    <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg text-center skill-badge">Network Security & Packet Analysis</div>
-                    <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg text-center skill-badge">Malware Analysis</div>
-                    <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg text-center skill-badge">Digital Forensics</div>
-                    <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg text-center skill-badge">Cloud Security (AWS, GCP)</div>
-                    <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg text-center skill-badge">Python & Bash Scripting</div>
-                    <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg text-center skill-badge">Full-Stack Development</div>
-                </div>
-            </div>
-        </section>     
-        <section class="my-12">
-            <div class="glass-card p-8 rounded-xl">
-                <h2 class="text-3xl font-semibold mb-6">Education</h2>
-                <div class="space-y-4">
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <h3 class="text-xl font-semibold">Parul University</h3>
-                        <p class="text-blue-600 dark:text-blue-400">B.Tech. - CSE (Cyber Security)</p>
-                        <p>CGPA: 6.59 / 10 | 2022 - 2026</p>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <h3 class="text-xl font-semibold">Sri Saraswathi Jr College, Ongole</h3>
-                        <p class="text-blue-600 dark:text-blue-400">12th | BIEAP</p>
-                        <p>Percentage: 73.20%</p>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <h3 class="text-xl font-semibold">Sri Rama Krishna EM High School, Ongole</h3>
-                        <p class="text-blue-600 dark:text-blue-400">10th | BSEAP</p>
-                        <p>Percentage: 89%</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="my-12">
-            <div class="glass-card p-8 rounded-xl">
-                <h2 class="text-3xl font-semibold mb-6">Certifications</h2>
-                <div class="grid md:grid-cols-2 gap-4">
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1vt76ZyXx1TGZAJgYhP_9IIIZBWY7yWO6/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Google Cloud Cybersecurity</h3>
-                            <p class="text-blue-600 dark:text-blue-400">Professional Certificate</p>
-                            <p>Cloud Security, IAM, Threat Detection</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1eyEHTRDB355i6Yj3xfEgVEpZaJRnABlY/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Ethical Hacking Essentials (EHE)</h3>
-                            <p class="text-blue-600 dark:text-blue-400">EC-Council</p>
-                            <p>Penetration Testing, Exploitation</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1avL_TNumbz_qphLiIEq_Ve5k5W_IiHLA/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Cyber Security Analyst (C3SA)</h3>
-                            <p class="text-blue-600 dark:text-blue-400">Cyber Warfare Labs</p>
-                            <p>Networking Protocols, Security</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1jbiJP-qMi0Y_GKpo0i0Eugx74tXCIFyl/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Kali Linux Course</h3>
-                            <p class="text-blue-600 dark:text-blue-400">Skills Chegg</p>
-                            <p>Linux Security, Ethical Hacking</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1bkGe4Q7Xy2bOY3S5B0Tl36G9mS5ZFc0z/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Cybersecurity Fundamentals</h3>
-                            <p class="text-blue-600 dark:text-blue-400">IBM SkillsBuild</p>
-                            <p>Incident Response, Security Operations</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1E4kyQn6u441NfffMPsea9hO8gjXVNQrj/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Cyber Forensic and Ethical Hacking</h3>
-                            <p class="text-blue-600 dark:text-blue-400">Cyfoedu</p>
-                            <p>Digital Forensics, Ethical Hacking</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1Oq1lMqTooKgkkbCQIKBdSrhE82_c70Oj/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Getting Started with AWS Essentials</h3>
-                            <p class="text-blue-600 dark:text-blue-400">AWS Training and Certification</p>
-                            <p>Cloud Security, IAM</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="#">
-                            <h3 class="text-xl font-semibold">Linux 100: Fundamentals</h3>
-                            <p class="text-blue-600 dark:text-blue-400">TCM Security</p>
-                            <p>Linux Security, Command Line</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1b4S9382SBozKYZHLrRs1MZSatXU8YHlj/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Third place in CTF HackArise</h3>
-                            <p class="text-blue-600 dark:text-blue-400">The Hackers Meetup x Parul University</p>
-                            <p>CTF, Web Exploitation</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1VPgm8d6mPabn-6qgJ6q1p_0tl8eHx7TI/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Cybersecurity Workshop and CTF Completion</h3>
-                            <p class="text-blue-600 dark:text-blue-400">Cyber Unbound</p>
-                            <p>Cybersecurity Training</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1t5McH-0qkIDJ72Wa_S8870fRL75MkY3_/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">VAPT Training Program</h3>
-                            <p class="text-blue-600 dark:text-blue-400">SkillVertex</p>
-                            <p>VAPT, Security Best Practices</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1mWcRDGaFjmvrUkEV1NlfcXHyuJuYyxyM/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Ethical Hacking</h3>
-                            <p class="text-blue-600 dark:text-blue-400">Skill India | NSDC</p>
-                            <p>Offensive Security, Ethical Hacking</p>
-                        </a>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <a href="https://drive.google.com/file/d/1yg-1ykn-RxxesM6lR17aVV-jvYDoWMGb/view?usp=sharing">
-                            <h3 class="text-xl font-semibold">Introduction to Critical Infrastructure Protection</h3>
-                            <p class="text-blue-600 dark:text-blue-400">OPSWAT</p>
-                            <p>Security & Risk Management</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        
-
-        <section class="my-12">
-            <div class="glass-card p-8 rounded-xl">
-                <h2 class="text-3xl font-semibold mb-6">Notable Projects</h2>
-                <div class="grid md:grid-cols-2 gap-6">
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <h3 class="text-xl font-semibold mb-2">RansomeWatch: Web-Based Malware Scanner</h3>
-                        <p>Web-based malware detection tool using Laravel with real-time scanning capabilities</p>
-                        <div class="mt-2 flex space-x-2">
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">Laravel</span>
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">Web Security</span>
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">Malware Detection</span>
-                        </div>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <h3 class="text-xl font-semibold mb-2">SecureScope: Advanced Vulnerability Scanner</h3>
-                        <p>Web-based vulnerability scanner (Python Flask + React) with automated checks and detailed reporting</p>
-                        <div class="mt-2 flex space-x-2">
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">Python Flask</span>
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">React</span>
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">VAPT</span>
-                        </div>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <h3 class="text-xl font-semibold mb-2">Phishing Email/URL Detector Plugin</h3>
-                        <p>Browser extension that alerts users about potential phishing attempts in real-time</p>
-                        <div class="mt-2 flex space-x-2">
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">JavaScript</span>
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">Browser Extension</span>
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">Phishing Defense</span>
-                        </div>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <h3 class="text-xl font-semibold mb-2">Advanced Malware Detection System</h3>
-                        <p>Windows-based antivirus with real-time detection, scanning, monitoring, and quarantine capabilities</p>
-                        <div class="mt-2 flex space-x-2">
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">Windows</span>
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">Antivirus</span>
-                            <span class="bg-blue-100 dark:bg-blue-900 px-2 py-1 rounded text-sm">Real-time Security</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="my-12">
-            <div class="glass-card p-8 rounded-xl">
-                <h2 class="text-3xl font-semibold mb-6">Internships</h2>
-                <div class="space-y-4">
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <h3 class="text-xl font-semibold">Tinkering Hub, Parul University</h3>
-                        <p class="text-blue-600 dark:text-blue-400">Cyber Security Intern</p>
-                        <p>Dec 2024 - Apr 2025</p>
-                        <ul class="list-disc list-inside mt-2">
-                            <li>Developed a Windows-based malware detection system with scanning, monitoring, and quarantine.</li>
-                            <li>Engineered a phishing email/URL detector browser extension with real-time alerts.</li>
-                            <li>Collaborated with cross-functional teams to implement cybersecurity solutions.</li>
-                        </ul>
-                    </div>
-                    <div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
-                        <h3 class="text-xl font-semibold">SkillVertex</h3>
-                        <p class="text-blue-600 dark:text-blue-400">Cyber Security Intern</p>
-                        <p>Dec 19, 2024 - Jan 19, 2025</p>
-                        <ul class="list-disc list-inside mt-2">
-                            <li>Performed VAPT on test websites to identify security vulnerabilities.</li>
-                            <li>Developed technical documentation and vulnerability reports with remediation recommendations.</li>
-                            <li>Applied ethical hacking techniques using scanning and manual exploitation.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="my-12">
-            <div class="glass-card p-8 rounded-xl">
-                <h2 class="text-3xl font-semibold mb-6">Contact Me</h2>
-                <form action="https://formsubmit.co/harishankar3618@gmail.com" method="POST"></form>
-                    <form id="contact-form" class="space-y-4">
-                        <input type="text" placeholder="Your Name" class="w-full p-3 rounded-lg bg-gray-100 dark:bg-gray-800" required>
-                        <input type="email" placeholder="Your Email" class="w-full p-3 rounded-lg bg-gray-100 dark:bg-gray-800" required>
-                        <textarea placeholder="Your Message" class="w-full p-3 rounded-lg bg-gray-100 dark:bg-gray-800" rows="4" required></textarea>
-                        <button type="submit" class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-300">
-                            Send Message
-                        </button>
-                    </form>
-                </form>
-            </div>
-        </section>
-
-        <footer class="text-center py-8">
-            <p class="mt-4 text-sm">© 2025 Hari Shankar Bakkamanthula. All Rights Reserved.</p>
-        </footer>
+  <!-- Loader -->
+  <div id="loader">
+    <div class="loader-inner">
+      <span class="loader-bracket">[</span>
+      <span class="loader-text" id="loader-text">initializing...</span>
+      <span class="loader-bracket">]</span>
     </div>
+    <div class="loader-bar"><div class="loader-fill"></div></div>
+  </div>
+
+  <!-- Particles Background -->
+  <div id="particles-js"></div>
+
+  <!-- Scanline overlay -->
+  <div class="scanlines"></div>
+
+  <!-- Navigation -->
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="#hero" class="nav-logo">HS<span class="accent">://</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#about">About</a></li>
+        <li><a href="#strengths">Strengths</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#certs">Certs</a></li>
+        <li><a href="#contact" class="nav-cta">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ==================== HERO ==================== -->
+  <section id="hero">
+    <div class="hero-content">
+      <div class="hero-tag reveal">
+        <span class="dot"></span> Available for full-time roles · Graduation May 2026
+      </div>
+      <h1 class="hero-title reveal">
+        Full-Stack Engineer<br />building <span class="accent-text">secure</span>,<br />production-grade systems.
+      </h1>
+      <p class="hero-sub reveal">
+        MERN · Flask · Laravel &nbsp;|&nbsp; VAPT · OWASP · Threat Modeling &nbsp;|&nbsp; AI-accelerated delivery
+      </p>
+      <div class="hero-cta reveal">
+        <a href="#projects" class="btn-primary">View Projects <i class="fas fa-arrow-right"></i></a>
+        <a href="assets/hari_shankar_resume.pdf" class="btn-ghost" download>Download Resume <i class="fas fa-download"></i></a>
+        <a href="#contact" class="btn-ghost">Contact <i class="fas fa-terminal"></i></a>
+      </div>
+      <div class="hero-links reveal">
+        <a href="https://github.com/harishankar3618" target="_blank" rel="noopener"><i class="fab fa-github"></i> harishankar3618</a>
+        <a href="https://www.linkedin.com/in/harishankar3618/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> harishankar3618</a>
+        <a href="mailto:harishankar3618@gmail.com"><i class="fas fa-envelope"></i> harishankar3618@gmail.com</a>
+      </div>
+    </div>
+    <div class="hero-terminal reveal">
+      <div class="terminal-bar"><span></span><span></span><span></span></div>
+      <div class="terminal-body" id="terminalBody"></div>
+    </div>
+    <div class="scroll-indicator">
+      <span>scroll</span>
+      <div class="scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- ==================== ABOUT ==================== -->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="section-label reveal">01 · About</div>
+      <div class="about-grid">
+        <div class="about-img-wrap reveal">
+          <div class="about-img-frame">
+            <img src="assets/profile.jpg" alt="Hari Shankar" />
+            <div class="img-border"></div>
+          </div>
+          <div class="about-stat-stack">
+            <div class="stat-pill"><span>3+</span> yrs building</div>
+            <div class="stat-pill"><span>5+</span> security projects</div>
+            <div class="stat-pill"><span>2</span> internships</div>
+          </div>
+        </div>
+        <div class="about-text reveal">
+          <h2 class="section-title">Systems builder.<br/>Security architect.<br/>Relentless shipper.</h2>
+          <p>
+            I design and deliver systems from the ground up — frontend to backend to infrastructure — with security baked in at every layer, not bolted on at the end.
+          </p>
+          <p>
+            With hands-on experience in VAPT, real-world freelance delivery (EHR platforms, POS systems), and SOC-level incident exposure, I understand what production systems demand. I leverage AI tooling to ship 3–4× faster without compromising on robustness or security posture.
+          </p>
+          <p>
+            Currently completing B.Tech CSE (Cybersecurity) at Parul University and actively targeting full-stack security engineering roles.
+          </p>
+          <a href="assets/hari_shankar_resume.pdf" class="btn-primary" download>
+            <i class="fas fa-download"></i> Download Resume
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== ENGINEERING STRENGTHS ==================== -->
+  <section id="strengths" class="section">
+    <div class="container">
+      <div class="section-label reveal">02 · Engineering Strengths</div>
+      <h2 class="section-title center reveal">What I bring to every team</h2>
+      <div class="strengths-grid">
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-layer-group"></i></div>
+          <h3>End-to-End Builder</h3>
+          <p>I own the full stack — UI, API, database, infra, and deployment. No handoffs, no silos.</p>
+        </div>
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-shield-halved"></i></div>
+          <h3>Security-by-Design</h3>
+          <p>OWASP Top 10, threat modeling, and secure coding practices are defaults in every system I touch.</p>
+        </div>
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-robot"></i></div>
+          <h3>AI-Accelerated Dev</h3>
+          <p>Systematic use of AI tooling drives a 3–4× productivity edge — faster prototypes, tighter feedback loops.</p>
+        </div>
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-sitemap"></i></div>
+          <h3>Systems Thinking</h3>
+          <p>I reason about failure modes, data flows, and trust boundaries before writing a single line of code.</p>
+        </div>
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-bolt"></i></div>
+          <h3>Rapid Prototyping</h3>
+          <p>From concept to working demo in hours — validated fast, iterated faster, shipped with confidence.</p>
+        </div>
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-circle-nodes"></i></div>
+          <h3>Real-World Delivery</h3>
+          <p>Freelance EHR, POS, and security tools built for real users, deployed with zero critical failures.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== EXPERIENCE ==================== -->
+  <section id="experience" class="section">
+    <div class="container">
+      <div class="section-label reveal">03 · Experience</div>
+      <h2 class="section-title reveal">Where I've shipped</h2>
+      <div class="timeline">
+
+        <!-- Freelance -->
+        <div class="tl-item reveal">
+          <div class="tl-marker"></div>
+          <div class="tl-card glass-card">
+            <div class="tl-head">
+              <div>
+                <h3>Freelance Full-Stack & Security Engineer</h3>
+                <span class="tl-company">Independent · Remote</span>
+              </div>
+              <span class="tl-date">2023 – Present</span>
+            </div>
+            <ul class="impact-list">
+              <li>Architected and deployed a full-stack <strong>Electronic Health Record (EHR)</strong> system — React frontend, Node.js API, MongoDB, with role-based access control and audit logging.</li>
+              <li>Engineered a <strong>Point-of-Sale (POS)</strong> platform with real-time inventory sync, receipt generation, and secure payment flows — zero downtime since launch.</li>
+              <li>Integrated OWASP-aligned security controls across all freelance deliverables: input validation, JWT auth, rate-limiting, and encrypted storage.</li>
+              <li>Delivered 3+ production projects end-to-end — from architecture decisions to deployment on cloud infra.</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- SOC / Security Analyst -->
+        <div class="tl-item reveal">
+          <div class="tl-marker"></div>
+          <div class="tl-card glass-card">
+            <div class="tl-head">
+              <div>
+                <h3>Cyber Security Intern (SOC Exposure)</h3>
+                <span class="tl-company">Tinkering Hub · Parul University</span>
+              </div>
+              <span class="tl-date">Dec 2024 – Apr 2025</span>
+            </div>
+            <ul class="impact-list">
+              <li>Developed a <strong>Windows-based malware detection system</strong> with real-time file scanning, behavior monitoring, and automated quarantine — reducing manual triage effort by 80%.</li>
+              <li>Engineered a <strong>phishing email/URL detector browser extension</strong> with ML-assisted classification and real-time user alerts, deployed across team machines.</li>
+              <li>Triaged and classified security alerts in real-time environments, building incident response documentation and runbooks.</li>
+              <li>Collaborated cross-functionally to implement security solutions reducing exposure surface across internal tooling.</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- SkillVertex -->
+        <div class="tl-item reveal">
+          <div class="tl-marker"></div>
+          <div class="tl-card glass-card">
+            <div class="tl-head">
+              <div>
+                <h3>Cyber Security Intern</h3>
+                <span class="tl-company">SkillVertex</span>
+              </div>
+              <span class="tl-date">Dec 2024 – Jan 2025</span>
+            </div>
+            <ul class="impact-list">
+              <li>Executed <strong>VAPT assessments</strong> on web applications using Burp Suite, Nmap, and Metasploit — identifying critical SQLi and XSS vulnerabilities.</li>
+              <li>Produced professional vulnerability reports with CVSS-scored findings and actionable remediation recommendations delivered to engineering teams.</li>
+              <li>Applied manual exploitation and automated scanning pipelines to simulate real-world attack scenarios.</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== PROJECTS ==================== -->
+  <section id="projects" class="section">
+    <div class="container">
+      <div class="section-label reveal">04 · Projects</div>
+      <h2 class="section-title reveal">Mini case studies</h2>
+      <div class="projects-grid">
+
+        <!-- SecureScope -->
+        <div class="project-card glass-card reveal">
+          <div class="proj-header">
+            <div class="proj-icon"><i class="fas fa-crosshairs"></i></div>
+            <div class="proj-tags">
+              <span>Flask</span><span>React</span><span>VAPT</span>
+            </div>
+          </div>
+          <h3>SecureScope</h3>
+          <p class="proj-sub">Advanced Vulnerability Scanner</p>
+          <div class="proj-case">
+            <div class="case-block">
+              <span class="case-label">Problem</span>
+              <p>Manual VAPT is slow and inconsistent — security teams lack a unified platform to automate checks and generate structured reports.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Solution</span>
+              <p>Built a web-based scanner with automated OWASP checks, real-time scan progress, and exportable PDF reports. React dashboard surfaces risk by severity.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Security Impact</span>
+              <p>Reduced assessment time by 60%. Automated detection of SQLi, XSS, open ports, and misconfigurations across target hosts.</p>
+            </div>
+          </div>
+          <div class="proj-actions">
+            <a href="https://github.com/harishankar3618" class="btn-sm" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+          </div>
+        </div>
+
+        <!-- RansomWatch -->
+        <div class="project-card glass-card reveal">
+          <div class="proj-header">
+            <div class="proj-icon"><i class="fas fa-virus-slash"></i></div>
+            <div class="proj-tags">
+              <span>Laravel</span><span>PHP</span><span>Malware</span>
+            </div>
+          </div>
+          <h3>RansomWatch</h3>
+          <p class="proj-sub">Web-Based Malware Scanner</p>
+          <div class="proj-case">
+            <div class="case-block">
+              <span class="case-label">Problem</span>
+              <p>Organizations uploading user-generated files face ransomware injection risk with no lightweight, self-hosted scanning option.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Solution</span>
+              <p>Laravel-powered scanner with real-time file analysis, signature-based detection, and threat classification dashboard accessible via browser.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Security Impact</span>
+              <p>Detects ransomware signatures and suspicious behaviors pre-execution. Zero false-negative rate on known ransomware families in test corpus.</p>
+            </div>
+          </div>
+          <div class="proj-actions">
+            <a href="https://github.com/harishankar3618" class="btn-sm" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+          </div>
+        </div>
+
+        <!-- Malware Detection System -->
+        <div class="project-card glass-card reveal">
+          <div class="proj-header">
+            <div class="proj-icon"><i class="fas fa-bug"></i></div>
+            <div class="proj-tags">
+              <span>Python</span><span>Windows</span><span>Real-time</span>
+            </div>
+          </div>
+          <h3>Advanced Malware Detection System</h3>
+          <p class="proj-sub">Desktop Antivirus Engine</p>
+          <div class="proj-case">
+            <div class="case-block">
+              <span class="case-label">Problem</span>
+              <p>Enterprise endpoint monitoring tools are expensive and overkill for SMBs needing real-time file and process protection.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Solution</span>
+              <p>Windows-native antivirus with real-time FS monitoring, signature + heuristic scanning, process watchdog, and automated quarantine engine.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Security Impact</span>
+              <p>Intercepts and quarantines malicious files pre-execution. Heuristic engine catches zero-day-style behavior patterns.</p>
+            </div>
+          </div>
+          <div class="proj-actions">
+            <a href="https://github.com/harishankar3618" class="btn-sm" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+          </div>
+        </div>
+
+        <!-- Phishing Extension -->
+        <div class="project-card glass-card reveal">
+          <div class="proj-header">
+            <div class="proj-icon"><i class="fas fa-fish"></i></div>
+            <div class="proj-tags">
+              <span>JavaScript</span><span>Extension</span><span>ML</span>
+            </div>
+          </div>
+          <h3>Phishing Detector Extension</h3>
+          <p class="proj-sub">Browser-Based Threat Intelligence</p>
+          <div class="proj-case">
+            <div class="case-block">
+              <span class="case-label">Problem</span>
+              <p>Users fall for phishing URLs despite email filters — no real-time, in-browser defense layer for link-based attacks.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Solution</span>
+              <p>Chrome extension using URL pattern analysis, domain age checks, and ML-assisted classification to alert users before page load.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Security Impact</span>
+              <p>Real-time interception of phishing URLs. Reduced successful phishing attempts in test environments by 85%.</p>
+            </div>
+          </div>
+          <div class="proj-actions">
+            <a href="https://github.com/harishankar3618" class="btn-sm" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+          </div>
+        </div>
+
+        <!-- Secure Chat App -->
+        <div class="project-card glass-card reveal featured">
+          <div class="proj-header">
+            <div class="proj-icon"><i class="fas fa-lock"></i></div>
+            <div class="proj-tags">
+              <span>Node.js</span><span>Socket.io</span><span>E2EE</span><span>React</span>
+            </div>
+          </div>
+          <div class="featured-badge">Featured</div>
+          <h3>Secure Chat Application</h3>
+          <p class="proj-sub">End-to-End Encrypted Messaging Platform</p>
+          <div class="proj-case">
+            <div class="case-block">
+              <span class="case-label">Problem</span>
+              <p>Most messaging platforms store messages in plaintext server-side — unacceptable for sensitive communications and violates zero-trust principles.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Solution</span>
+              <p>Built a full-stack real-time chat platform with E2EE using RSA key pairs, Socket.io transport, JWT session auth, and React UI — messages decrypted only on recipient's device.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Security Impact</span>
+              <p>Zero server-side message plaintext. Perfect forward secrecy through session key rotation. Designed with threat model for MITM and replay attacks.</p>
+            </div>
+          </div>
+          <div class="proj-actions">
+            <a href="https://github.com/harishankar3618" class="btn-sm" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== SKILLS ==================== -->
+  <section id="skills" class="section">
+    <div class="container">
+      <div class="section-label reveal">05 · Skills</div>
+      <h2 class="section-title reveal">Technical stack</h2>
+      <div class="skills-grid">
+
+        <div class="skill-group glass-card reveal">
+          <div class="sg-icon"><i class="fas fa-shield-halved"></i></div>
+          <h3>Security</h3>
+          <div class="skill-tags">
+            <span>VAPT</span><span>OWASP Top 10</span><span>Malware Analysis</span>
+            <span>Burp Suite</span><span>Nmap</span><span>Metasploit</span>
+            <span>Wireshark</span><span>Threat Modeling</span><span>Digital Forensics</span>
+          </div>
+        </div>
+
+        <div class="skill-group glass-card reveal">
+          <div class="sg-icon"><i class="fas fa-server"></i></div>
+          <h3>Backend</h3>
+          <div class="skill-tags">
+            <span>Node.js</span><span>Express</span><span>Python Flask</span>
+            <span>Laravel (PHP)</span><span>REST APIs</span><span>MongoDB</span>
+            <span>MySQL</span><span>JWT Auth</span>
+          </div>
+        </div>
+
+        <div class="skill-group glass-card reveal">
+          <div class="sg-icon"><i class="fas fa-desktop"></i></div>
+          <h3>Frontend</h3>
+          <div class="skill-tags">
+            <span>React.js</span><span>JavaScript (ES6+)</span><span>HTML5 / CSS3</span>
+            <span>Tailwind CSS</span><span>Socket.io</span><span>Browser Extensions</span>
+          </div>
+        </div>
+
+        <div class="skill-group glass-card reveal">
+          <div class="sg-icon"><i class="fas fa-network-wired"></i></div>
+          <h3>Systems & Infra</h3>
+          <div class="skill-tags">
+            <span>Linux (Ubuntu / Kali)</span><span>AWS</span><span>GCP</span>
+            <span>Networking Protocols</span><span>Bash Scripting</span>
+            <span>Docker</span><span>CI/CD</span>
+          </div>
+        </div>
+
+        <div class="skill-group glass-card reveal">
+          <div class="sg-icon"><i class="fas fa-brain"></i></div>
+          <h3>AI Engineering</h3>
+          <div class="skill-tags">
+            <span>Prompt Engineering</span><span>AI-assisted Development</span>
+            <span>LLM Workflows</span><span>Automated Testing w/ AI</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== CERTIFICATIONS ==================== -->
+  <section id="certs" class="section">
+    <div class="container">
+      <div class="section-label reveal">06 · Certifications</div>
+      <h2 class="section-title reveal">Credentials</h2>
+      <div class="certs-grid">
+
+        <a href="https://drive.google.com/file/d/1vt76ZyXx1TGZAJgYhP_9IIIZBWY7yWO6/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fab fa-google"></i></div>
+          <div class="cert-info">
+            <h4>Google Cloud Cybersecurity</h4>
+            <span>Professional Certificate</span>
+            <p>Cloud Security · IAM · Threat Detection</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1eyEHTRDB355i6Yj3xfEgVEpZaJRnABlY/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-user-secret"></i></div>
+          <div class="cert-info">
+            <h4>Ethical Hacking Essentials (EHE)</h4>
+            <span>EC-Council</span>
+            <p>Penetration Testing · Exploitation</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1avL_TNumbz_qphLiIEq_Ve5k5W_IiHLA/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-satellite-dish"></i></div>
+          <div class="cert-info">
+            <h4>Cyber Security Analyst (C3SA)</h4>
+            <span>Cyber Warfare Labs</span>
+            <p>Networking Protocols · Security Operations</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1bHkW5Lriv7INl2u7jXe0-t4LJNMtKGS9/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-code"></i></div>
+          <div class="cert-info">
+            <h4>The Complete Web Development Bootcamp</h4>
+            <span>Udemy</span>
+            <p>Full-Stack Development · MERN</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1t5McH-0qkIDJ72Wa_S8870fRL75MkY3_/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-magnifying-glass"></i></div>
+          <div class="cert-info">
+            <h4>VAPT Training Program</h4>
+            <span>SkillVertex</span>
+            <p>VAPT · Security Best Practices</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1mWcRDGaFjmvrUkEV1NlfcXHyuJuYyxyM/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-flag"></i></div>
+          <div class="cert-info">
+            <h4>Ethical Hacking</h4>
+            <span>Skill India · NSDC</span>
+            <p>Offensive Security · Ethical Hacking</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1yg-1ykn-RxxesM6lR17aVV-jvYDoWMGb/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-industry"></i></div>
+          <div class="cert-info">
+            <h4>Critical Infrastructure Protection</h4>
+            <span>OPSWAT</span>
+            <p>Security & Risk Management · ICS</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== CTF & COMMUNITY ==================== -->
+  <section id="ctf" class="section">
+    <div class="container">
+      <div class="section-label reveal">07 · CTF & Community</div>
+      <h2 class="section-title reveal">In the arena</h2>
+      <div class="ctf-grid">
+        <div class="ctf-card glass-card reveal">
+          <div class="ctf-icon"><i class="fas fa-flag-checkered"></i></div>
+          <h3>CTF Competitions</h3>
+          <p>Active participant in Capture The Flag competitions — web exploitation, reverse engineering, forensics, and crypto challenges. Sharpening real-world attack/defense intuition.</p>
+          <div class="ctf-platforms">
+            <span><i class="fas fa-circle-dot"></i> TryHackMe</span>
+            <span><i class="fas fa-circle-dot"></i> HackTheBox</span>
+            <span><i class="fas fa-circle-dot"></i> CTFtime</span>
+          </div>
+        </div>
+        <div class="ctf-card glass-card reveal">
+          <div class="ctf-icon"><i class="fas fa-users"></i></div>
+          <h3>Community</h3>
+          <p>Engaging with the security and developer community through open-source contributions, writeups, and knowledge sharing on LinkedIn and GitHub.</p>
+          <div class="ctf-platforms">
+            <span><i class="fab fa-github"></i> Open Source</span>
+            <span><i class="fab fa-linkedin"></i> LinkedIn</span>
+            <span><i class="fas fa-pen-to-square"></i> Writeups (Coming Soon)</span>
+          </div>
+        </div>
+        <div class="ctf-card glass-card reveal">
+          <div class="ctf-icon"><i class="fas fa-graduation-cap"></i></div>
+          <h3>Education</h3>
+          <p>B.Tech CSE (Cybersecurity) · Parul University · 2022–2026. Coursework spanning network security, cryptography, digital forensics, and software engineering.</p>
+          <div class="ctf-platforms">
+            <span><i class="fas fa-university"></i> Parul University</span>
+            <span><i class="fas fa-calendar"></i> May 2026 Grad</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== CONTACT ==================== -->
+  <section id="contact" class="section">
+    <div class="container">
+      <div class="section-label reveal">08 · Contact</div>
+      <h2 class="section-title center reveal">Let's build something</h2>
+      <p class="contact-sub reveal">Open to full-time roles, contract work, and security collaborations.</p>
+      <div class="contact-grid">
+        <div class="contact-info reveal">
+          <a href="mailto:harishankar3618@gmail.com" class="contact-link">
+            <i class="fas fa-envelope"></i>
+            <div>
+              <span>Email</span>
+              <p>harishankar3618@gmail.com</p>
+            </div>
+          </a>
+          <a href="https://www.linkedin.com/in/harishankar3618/" target="_blank" class="contact-link" rel="noopener">
+            <i class="fab fa-linkedin"></i>
+            <div>
+              <span>LinkedIn</span>
+              <p>/in/harishankar3618</p>
+            </div>
+          </a>
+          <a href="https://github.com/harishankar3618" target="_blank" class="contact-link" rel="noopener">
+            <i class="fab fa-github"></i>
+            <div>
+              <span>GitHub</span>
+              <p>harishankar3618</p>
+            </div>
+          </a>
+          <a href="tel:+917330920531" class="contact-link">
+            <i class="fas fa-phone"></i>
+            <div>
+              <span>Phone</span>
+              <p>+91 7330920531</p>
+            </div>
+          </a>
+        </div>
+
+        <!-- FIXED: Single form with formsubmit.co -->
+        <form
+          id="contact-form"
+          class="contact-form glass-card reveal"
+          action="https://formsubmit.co/harishankar3618@gmail.com"
+          method="POST"
+        >
+          <!-- formsubmit.co config -->
+          <input type="hidden" name="_subject" value="Portfolio Contact — New Message" />
+          <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="_template" value="table" />
+          <input type="text" name="_honey" style="display:none" />
+
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="Your name" required autocomplete="name" />
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="your@email.com" required autocomplete="email" />
+          </div>
+          <div class="form-group">
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject" placeholder="What's this about?" required />
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="5" placeholder="Tell me about the opportunity..." required></textarea>
+          </div>
+          <button type="submit" class="btn-primary full-width">
+            Send Message <i class="fas fa-paper-plane"></i>
+          </button>
+        </form>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="footer-inner">
+        <span class="nav-logo">HS<span class="accent">://</span></span>
+        <p>Designed & built by Hari Shankar Bakkamanthula · 2025</p>
+        <div class="footer-links">
+          <a href="https://github.com/harishankar3618" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/harishankar3618/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+          <a href="mailto:harishankar3618@gmail.com"><i class="fas fa-envelope"></i></a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
