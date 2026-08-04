@@ -44,6 +44,15 @@ Or just open `index.html` directly in a browser — it works with no server (Git
 2. Go to Settings → Pages → Source: Deploy from branch → main → / (root)
 3. Done. No build step needed.
 
+## Content (from resume)
+- Title: Associate AI Automation Engineer @ TechD Cybersecurity Limited
+- Location: Ahmedabad, India
+- Website: harishankar3618.github.io
+- Email: harishankar3618@gmail.com · Phone: +91 7330920531
+- Enterprise projects: BD AI Assistant (LangGraph/FastAPI/Teams), PMO Portal (Graph API/SharePoint), BD Lifecycle Automation (6 Power Automate flows)
+- Security projects: SecureScope, Malware Detection System, Phishing Detector Extension
+- Graduating B.Tech CSE Cybersecurity, Parul University, May 2026
+
 ## User preferences
 - Keep all code as pure static HTML/CSS/JS — no frameworks, no bundlers
 - GitHub Pages compatible (no server required)
