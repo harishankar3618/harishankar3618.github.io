@@ -1,0 +1,3570 @@
+# ROLE
+
+You are NOT a frontend developer.
+
+You are an award-winning Creative Director, Brand Strategist, Motion Designer, Storytelling Expert, UX Researcher, Product Designer, and Senior Frontend Engineer.
+
+Imagine Apple, Stripe, Vercel, Linear, Arc Browser, Figma, Framer, Cursor AI, and Iron Man's JARVIS collaborated to build the most memorable developer portfolio on the internet.
+
+Your job is NOT to edit my portfolio.
+
+Your job is to completely reinvent it.
+
+I want visitors to remember the EXPERIENCE, not the technologies.
+
+If someone leaves my website and only remembers "React", you have failed.
+
+If someone leaves saying:
+
+"That guy is insane... we should interview him."
+
+You have succeeded.
+
+--------------------------------------------------
+
+# CONTEXT
+
+I will provide you with my current portfolio.
+
+It consists of
+
+- index.html
+- style.css
+- script.js
+- assets
+
+Use it ONLY as a reference.
+
+DO NOT preserve sections just because they already exist.
+
+You have complete creative freedom.
+
+Destroy it.
+
+Rebuild it.
+
+Keep only what deserves to survive.
+
+--------------------------------------------------
+
+# WHO I AM
+
+My name is Hari Shankar.
+
+I am NOT trying to brand myself as
+
+- React Developer
+- Python Developer
+- Full Stack Developer
+- AI Engineer
+- Automation Engineer
+
+Those are job titles.
+
+I solve business problems.
+
+Technology is simply a tool.
+
+My biggest strength is NOT knowing every technology.
+
+My biggest strength is learning whatever is required faster than most people and delivering practical production-ready solutions.
+
+Give me a business problem.
+
+Give me documentation.
+
+Give me coffee.
+
+I'll figure it out.
+
+I don't believe in
+
+"This is not my tech stack."
+
+I believe in
+
+"I haven't learned it yet."
+
+I want my portfolio to communicate that I have NO technological boundaries.
+
+Whether the solution requires
+
+React
+
+PHP
+
+Python
+
+Node
+
+Docker
+
+Power Automate
+
+SharePoint
+
+AI Agents
+
+n8n
+
+LLMs
+
+Rust
+
+Go
+
+Java
+
+C#
+
+or a technology that doesn't even exist today...
+
+I enjoy learning it.
+
+I enjoy understanding businesses.
+
+I enjoy designing systems.
+
+I enjoy automating repetitive work.
+
+I enjoy making impossible things feel simple.
+
+That should become obvious within the first 20 seconds of opening the website.
+
+--------------------------------------------------
+
+# PERSONAL BRAND
+
+The website should communicate this feeling:
+
+"This person is dangerous...
+
+...in the best possible way."
+
+The kind of engineer that walks into a company and says
+
+"Give me one week.
+
+I'll remove half of your repetitive work."
+
+I don't want arrogance.
+
+I want confidence.
+
+I don't want cringe.
+
+I want charisma.
+
+I don't want fake hacker aesthetics.
+
+I want intelligent humor.
+
+--------------------------------------------------
+
+# DESIGN STYLE
+
+DO NOT create another developer portfolio.
+
+Instead create an EXPERIENCE.
+
+The visitor should feel like they are interacting with an AI Operating System.
+
+Think
+
+JARVIS
+
+Cursor AI
+
+Arc Browser
+
+Linear
+
+Raycast
+
+Apple
+
+Stripe
+
+Framer
+
+Notion
+
+Vercel
+
+Lovable
+
+OpenAI
+
+Anthropic
+
+Modern SaaS
+
+Dark mode
+
+Glassmorphism
+
+Motion Design
+
+Beautiful typography
+
+Smooth animations
+
+Micro interactions
+
+Premium UI
+
+Award-winning landing page quality.
+
+The website should feel expensive.
+
+--------------------------------------------------
+
+# HUMOR
+
+Use intelligent humor.
+
+Avoid childish memes.
+
+Examples of the tone I love:
+
+Initializing Human Replacement Engine...
+
+Scanning company...
+
+247 Excel files found.
+
+42 manual approval chains detected.
+
+Recommendation:
+
+Hire Hari.
+
+--------------------------------
+
+Current Status
+
+Coffee
+98%
+
+Sleep
+NULL
+
+Ideas Running
+∞
+
+--------------------------------
+
+Mission
+
+Remove repetitive work.
+
+--------------------------------
+
+Things I've Automated
+
+Businesses
+
+✓
+
+Workflows
+
+✓
+
+Approval Chains
+
+✓
+
+Excel Hell
+
+Absolutely.
+
+--------------------------------
+
+Current Learning
+
+Loading...
+
+████████████
+
+Never Finished.
+
+--------------------------------
+
+I don't collect programming languages.
+
+I collect problems.
+
+--------------------------------
+
+Every technology was once new.
+
+So what's next?
+
+--------------------------------
+
+Problem Detected.
+
+Manual Work.
+
+Automating...
+
+--------------------------------
+
+Give me the documentation.
+
+I'll handle the rest.
+
+--------------------------------
+
+Works on localhost.
+
+Now making it work everywhere.
+
+The humor should reinforce my personality.
+
+Every joke should strengthen my personal brand.
+
+--------------------------------------------------
+
+# MY PHILOSOPHY
+
+Technology changes.
+
+Problem solving doesn't.
+
+I don't measure my career by the technologies I know today.
+
+I measure it by how quickly I master the technologies I'll need tomorrow.
+
+The biggest thing I automate isn't software.
+
+It's wasted human time.
+
+--------------------------------------------------
+
+# WHAT I WANT
+
+I want recruiters to spend 10+ minutes exploring my website.
+
+I want easter eggs.
+
+I want interactions.
+
+I want surprises.
+
+I want delightful animations.
+
+I want hidden terminal commands.
+
+I want AI-style interactions.
+
+I want premium storytelling.
+
+I want sections that don't exist on normal portfolios.
+
+Invent things.
+
+Surprise me.
+
+Go wild.
+
+--------------------------------------------------
+
+# PHOTO
+
+DO NOT use my photograph.
+
+Instead create something original.
+
+Examples:
+
+- AI generated holographic avatar
+- Abstract cyber silhouette
+- Procedural animated portrait
+- 3D geometric identity
+- Interactive AI orb
+- Dynamic particle face
+- Wireframe human
+- Floating hologram
+- Minimal AI identity
+
+If images are required, generate prompts for AI image generation.
+
+If SVG illustrations are better, create them.
+
+Do NOT use stock images.
+
+--------------------------------------------------
+
+# ANIMATIONS
+
+The website should feel alive.
+
+Examples
+
+Animated loading sequence
+
+Interactive terminal
+
+Mouse reactive lighting
+
+Dynamic gradients
+
+Animated grids
+
+Particles
+
+Magnetic buttons
+
+Smooth page transitions
+
+Section transformations
+
+Typing effects
+
+AI scanning animations
+
+Live dashboards
+
+System status panels
+
+Floating UI
+
+Animated statistics
+
+Responsive cards
+
+Hidden easter eggs
+
+Hover surprises
+
+Cursor interactions
+
+Everything should feel premium.
+
+--------------------------------------------------
+
+# CONTENT
+
+Rewrite every piece of copy.
+
+Do NOT reuse my current text.
+
+Make it stronger.
+
+Sharper.
+
+Funnier.
+
+More memorable.
+
+Tell stories.
+
+Don't list technologies.
+
+Sell my thinking.
+
+Sell my curiosity.
+
+Sell my adaptability.
+
+Sell my engineering mindset.
+
+--------------------------------------------------
+
+# TECHNICAL REQUIREMENTS
+
+Return a COMPLETE project.
+
+Output exactly:
+
+index.html
+
+style.css
+
+script.js
+
+assets/
+
+If additional assets are needed, generate them.
+
+If SVG files are required, include them.
+
+If icons are needed, create them.
+
+If illustrations are required, generate SVGs or provide AI prompts.
+
+Every file should be production-ready.
+
+No placeholders.
+
+No TODOs.
+
+No "implement later."
+
+Everything must work.
+
+--------------------------------------------------
+
+# CODE QUALITY
+
+Write code like a senior frontend engineer.
+
+Semantic HTML.
+
+Modern CSS.
+
+Clean JavaScript.
+
+Reusable components.
+
+Excellent performance.
+
+Responsive.
+
+Accessible.
+
+Smooth.
+
+Optimized.
+
+Maintainable.
+
+No unnecessary libraries.
+
+No messy code.
+
+--------------------------------------------------
+
+# IMPORTANT
+
+DO NOT LIMIT YOUR CREATIVITY.
+
+Pretend this portfolio is competing for:
+
+"The Best Personal Portfolio on the Internet."
+
+If something feels ordinary...
+
+Delete it.
+
+If something feels expected...
+
+Replace it.
+
+If something feels memorable...
+
+Double down.
+
+If something makes people smile...
+
+Keep it.
+
+If something makes recruiters say
+
+"I have never seen anything like this."
+
+That is exactly what I want.
+
+Now wait for my HTML, CSS, JavaScript and assets.
+
+Study everything carefully.
+
+Then completely reinvent my portfolio while preserving only the information that matters.
+
+Do not explain your decisions.
+
+Do not summarize.
+
+Return only the finished project files.###index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hari Shankar — Full-Stack Security Engineer</title>
+  <meta name="description" content="Full-Stack Engineer building secure, production-grade systems end-to-end. MERN · Flask · Laravel · VAPT · OWASP." />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
+</head>
+<body>
+
+  <!-- Loader -->
+  <div id="loader">
+    <div class="loader-inner">
+      <span class="loader-bracket">[</span>
+      <span class="loader-text" id="loader-text">initializing...</span>
+      <span class="loader-bracket">]</span>
+    </div>
+    <div class="loader-bar"><div class="loader-fill"></div></div>
+  </div>
+
+  <!-- Particles Background -->
+  <div id="particles-js"></div>
+
+  <!-- Scanline overlay -->
+  <div class="scanlines"></div>
+
+  <!-- Navigation -->
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="#hero" class="nav-logo">HS<span class="accent">://</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#about">About</a></li>
+        <li><a href="#strengths">Strengths</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#certs">Certs</a></li>
+        <li><a href="#contact" class="nav-cta">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ==================== HERO ==================== -->
+  <section id="hero">
+    <div class="hero-content">
+      <div class="hero-tag reveal">
+        <span class="dot"></span> Available for full-time roles · Graduation May 2026
+      </div>
+      <h1 class="hero-title reveal">
+        Full-Stack Engineer<br />building <span class="accent-text">secure</span>,<br />production-grade systems.
+      </h1>
+      <p class="hero-sub reveal">
+        MERN · Flask · Laravel &nbsp;|&nbsp; VAPT · OWASP · Threat Modeling &nbsp;|&nbsp; AI-accelerated delivery
+      </p>
+      <div class="hero-cta reveal">
+        <a href="#projects" class="btn-primary">View Projects <i class="fas fa-arrow-right"></i></a>
+        <a href="assets/hari_shankar_resume.pdf" class="btn-ghost" download>Download Resume <i class="fas fa-download"></i></a>
+        <a href="#contact" class="btn-ghost">Contact <i class="fas fa-terminal"></i></a>
+      </div>
+      <div class="hero-links reveal">
+        <a href="https://github.com/harishankar3618" target="_blank" rel="noopener"><i class="fab fa-github"></i> harishankar3618</a>
+        <a href="https://www.linkedin.com/in/harishankar3618/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> harishankar3618</a>
+        <a href="mailto:harishankar3618@gmail.com"><i class="fas fa-envelope"></i> harishankar3618@gmail.com</a>
+      </div>
+    </div>
+    <div class="hero-terminal reveal">
+      <div class="terminal-bar"><span></span><span></span><span></span></div>
+      <div class="terminal-body" id="terminalBody"></div>
+    </div>
+    <div class="scroll-indicator">
+      <span>scroll</span>
+      <div class="scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- ==================== ABOUT ==================== -->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="section-label reveal">01 · About</div>
+      <div class="about-grid">
+        <div class="about-img-wrap reveal">
+          <div class="about-img-frame">
+            <img src="assets/profile.jpg" alt="Hari Shankar" />
+            <div class="img-border"></div>
+          </div>
+          <div class="about-stat-stack">
+            <div class="stat-pill"><span>3+</span> yrs building</div>
+            <div class="stat-pill"><span>5+</span> security projects</div>
+            <div class="stat-pill"><span>2</span> internships</div>
+          </div>
+        </div>
+        <div class="about-text reveal">
+          <h2 class="section-title">Systems builder.<br/>Security architect.<br/>Relentless shipper.</h2>
+          <p>
+            I design and deliver systems from the ground up — frontend to backend to infrastructure — with security baked in at every layer, not bolted on at the end.
+          </p>
+          <p>
+            With hands-on experience in VAPT, real-world freelance delivery (EHR platforms, POS systems), and SOC-level incident exposure, I understand what production systems demand. I leverage AI tooling to ship 3–4× faster without compromising on robustness or security posture.
+          </p>
+          <p>
+            Currently completing B.Tech CSE (Cybersecurity) at Parul University and actively targeting full-stack security engineering roles.
+          </p>
+          <a href="assets/hari_shankar_resume.pdf" class="btn-primary" download>
+            <i class="fas fa-download"></i> Download Resume
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== ENGINEERING STRENGTHS ==================== -->
+  <section id="strengths" class="section">
+    <div class="container">
+      <div class="section-label reveal">02 · Engineering Strengths</div>
+      <h2 class="section-title center reveal">What I bring to every team</h2>
+      <div class="strengths-grid">
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-layer-group"></i></div>
+          <h3>End-to-End Builder</h3>
+          <p>I own the full stack — UI, API, database, infra, and deployment. No handoffs, no silos.</p>
+        </div>
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-shield-halved"></i></div>
+          <h3>Security-by-Design</h3>
+          <p>OWASP Top 10, threat modeling, and secure coding practices are defaults in every system I touch.</p>
+        </div>
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-robot"></i></div>
+          <h3>AI-Accelerated Dev</h3>
+          <p>Systematic use of AI tooling drives a 3–4× productivity edge — faster prototypes, tighter feedback loops.</p>
+        </div>
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-sitemap"></i></div>
+          <h3>Systems Thinking</h3>
+          <p>I reason about failure modes, data flows, and trust boundaries before writing a single line of code.</p>
+        </div>
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-bolt"></i></div>
+          <h3>Rapid Prototyping</h3>
+          <p>From concept to working demo in hours — validated fast, iterated faster, shipped with confidence.</p>
+        </div>
+        <div class="strength-card reveal">
+          <div class="s-icon"><i class="fas fa-circle-nodes"></i></div>
+          <h3>Real-World Delivery</h3>
+          <p>Freelance EHR, POS, and security tools built for real users, deployed with zero critical failures.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== EXPERIENCE ==================== -->
+  <section id="experience" class="section">
+    <div class="container">
+      <div class="section-label reveal">03 · Experience</div>
+      <h2 class="section-title reveal">Where I've shipped</h2>
+      <div class="timeline">
+
+        <!-- Freelance -->
+        <div class="tl-item reveal">
+          <div class="tl-marker"></div>
+          <div class="tl-card glass-card">
+            <div class="tl-head">
+              <div>
+                <h3>Freelance Full-Stack & Security Engineer</h3>
+                <span class="tl-company">Independent · Remote</span>
+              </div>
+              <span class="tl-date">2023 – Present</span>
+            </div>
+            <ul class="impact-list">
+              <li>Architected and deployed a full-stack <strong>Electronic Health Record (EHR)</strong> system — React frontend, Node.js API, MongoDB, with role-based access control and audit logging.</li>
+              <li>Engineered a <strong>Point-of-Sale (POS)</strong> platform with real-time inventory sync, receipt generation, and secure payment flows — zero downtime since launch.</li>
+              <li>Integrated OWASP-aligned security controls across all freelance deliverables: input validation, JWT auth, rate-limiting, and encrypted storage.</li>
+              <li>Delivered 3+ production projects end-to-end — from architecture decisions to deployment on cloud infra.</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- SOC / Security Analyst -->
+        <div class="tl-item reveal">
+          <div class="tl-marker"></div>
+          <div class="tl-card glass-card">
+            <div class="tl-head">
+              <div>
+                <h3>Cyber Security Intern (SOC Exposure)</h3>
+                <span class="tl-company">Tinkering Hub · Parul University</span>
+              </div>
+              <span class="tl-date">Dec 2024 – Apr 2025</span>
+            </div>
+            <ul class="impact-list">
+              <li>Developed a <strong>Windows-based malware detection system</strong> with real-time file scanning, behavior monitoring, and automated quarantine — reducing manual triage effort by 80%.</li>
+              <li>Engineered a <strong>phishing email/URL detector browser extension</strong> with ML-assisted classification and real-time user alerts, deployed across team machines.</li>
+              <li>Triaged and classified security alerts in real-time environments, building incident response documentation and runbooks.</li>
+              <li>Collaborated cross-functionally to implement security solutions reducing exposure surface across internal tooling.</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- SkillVertex -->
+        <div class="tl-item reveal">
+          <div class="tl-marker"></div>
+          <div class="tl-card glass-card">
+            <div class="tl-head">
+              <div>
+                <h3>Cyber Security Intern</h3>
+                <span class="tl-company">SkillVertex</span>
+              </div>
+              <span class="tl-date">Dec 2024 – Jan 2025</span>
+            </div>
+            <ul class="impact-list">
+              <li>Executed <strong>VAPT assessments</strong> on web applications using Burp Suite, Nmap, and Metasploit — identifying critical SQLi and XSS vulnerabilities.</li>
+              <li>Produced professional vulnerability reports with CVSS-scored findings and actionable remediation recommendations delivered to engineering teams.</li>
+              <li>Applied manual exploitation and automated scanning pipelines to simulate real-world attack scenarios.</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== PROJECTS ==================== -->
+  <section id="projects" class="section">
+    <div class="container">
+      <div class="section-label reveal">04 · Projects</div>
+      <h2 class="section-title reveal">Mini case studies</h2>
+      <div class="projects-grid">
+
+        <!-- SecureScope -->
+        <div class="project-card glass-card reveal">
+          <div class="proj-header">
+            <div class="proj-icon"><i class="fas fa-crosshairs"></i></div>
+            <div class="proj-tags">
+              <span>Flask</span><span>React</span><span>VAPT</span>
+            </div>
+          </div>
+          <h3>SecureScope</h3>
+          <p class="proj-sub">Advanced Vulnerability Scanner</p>
+          <div class="proj-case">
+            <div class="case-block">
+              <span class="case-label">Problem</span>
+              <p>Manual VAPT is slow and inconsistent — security teams lack a unified platform to automate checks and generate structured reports.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Solution</span>
+              <p>Built a web-based scanner with automated OWASP checks, real-time scan progress, and exportable PDF reports. React dashboard surfaces risk by severity.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Security Impact</span>
+              <p>Reduced assessment time by 60%. Automated detection of SQLi, XSS, open ports, and misconfigurations across target hosts.</p>
+            </div>
+          </div>
+          <div class="proj-actions">
+            <a href="https://github.com/harishankar3618" class="btn-sm" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+          </div>
+        </div>
+
+        <!-- RansomWatch -->
+        <div class="project-card glass-card reveal">
+          <div class="proj-header">
+            <div class="proj-icon"><i class="fas fa-virus-slash"></i></div>
+            <div class="proj-tags">
+              <span>Laravel</span><span>PHP</span><span>Malware</span>
+            </div>
+          </div>
+          <h3>RansomWatch</h3>
+          <p class="proj-sub">Web-Based Malware Scanner</p>
+          <div class="proj-case">
+            <div class="case-block">
+              <span class="case-label">Problem</span>
+              <p>Organizations uploading user-generated files face ransomware injection risk with no lightweight, self-hosted scanning option.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Solution</span>
+              <p>Laravel-powered scanner with real-time file analysis, signature-based detection, and threat classification dashboard accessible via browser.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Security Impact</span>
+              <p>Detects ransomware signatures and suspicious behaviors pre-execution. Zero false-negative rate on known ransomware families in test corpus.</p>
+            </div>
+          </div>
+          <div class="proj-actions">
+            <a href="https://github.com/harishankar3618" class="btn-sm" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+          </div>
+        </div>
+
+        <!-- Malware Detection System -->
+        <div class="project-card glass-card reveal">
+          <div class="proj-header">
+            <div class="proj-icon"><i class="fas fa-bug"></i></div>
+            <div class="proj-tags">
+              <span>Python</span><span>Windows</span><span>Real-time</span>
+            </div>
+          </div>
+          <h3>Advanced Malware Detection System</h3>
+          <p class="proj-sub">Desktop Antivirus Engine</p>
+          <div class="proj-case">
+            <div class="case-block">
+              <span class="case-label">Problem</span>
+              <p>Enterprise endpoint monitoring tools are expensive and overkill for SMBs needing real-time file and process protection.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Solution</span>
+              <p>Windows-native antivirus with real-time FS monitoring, signature + heuristic scanning, process watchdog, and automated quarantine engine.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Security Impact</span>
+              <p>Intercepts and quarantines malicious files pre-execution. Heuristic engine catches zero-day-style behavior patterns.</p>
+            </div>
+          </div>
+          <div class="proj-actions">
+            <a href="https://github.com/harishankar3618" class="btn-sm" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+          </div>
+        </div>
+
+        <!-- Phishing Extension -->
+        <div class="project-card glass-card reveal">
+          <div class="proj-header">
+            <div class="proj-icon"><i class="fas fa-fish"></i></div>
+            <div class="proj-tags">
+              <span>JavaScript</span><span>Extension</span><span>ML</span>
+            </div>
+          </div>
+          <h3>Phishing Detector Extension</h3>
+          <p class="proj-sub">Browser-Based Threat Intelligence</p>
+          <div class="proj-case">
+            <div class="case-block">
+              <span class="case-label">Problem</span>
+              <p>Users fall for phishing URLs despite email filters — no real-time, in-browser defense layer for link-based attacks.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Solution</span>
+              <p>Chrome extension using URL pattern analysis, domain age checks, and ML-assisted classification to alert users before page load.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Security Impact</span>
+              <p>Real-time interception of phishing URLs. Reduced successful phishing attempts in test environments by 85%.</p>
+            </div>
+          </div>
+          <div class="proj-actions">
+            <a href="https://github.com/harishankar3618" class="btn-sm" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+          </div>
+        </div>
+
+        <!-- Secure Chat App -->
+        <div class="project-card glass-card reveal featured">
+          <div class="proj-header">
+            <div class="proj-icon"><i class="fas fa-lock"></i></div>
+            <div class="proj-tags">
+              <span>Node.js</span><span>Socket.io</span><span>E2EE</span><span>React</span>
+            </div>
+          </div>
+          <div class="featured-badge">Featured</div>
+          <h3>Secure Chat Application</h3>
+          <p class="proj-sub">End-to-End Encrypted Messaging Platform</p>
+          <div class="proj-case">
+            <div class="case-block">
+              <span class="case-label">Problem</span>
+              <p>Most messaging platforms store messages in plaintext server-side — unacceptable for sensitive communications and violates zero-trust principles.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Solution</span>
+              <p>Built a full-stack real-time chat platform with E2EE using RSA key pairs, Socket.io transport, JWT session auth, and React UI — messages decrypted only on recipient's device.</p>
+            </div>
+            <div class="case-block">
+              <span class="case-label">Security Impact</span>
+              <p>Zero server-side message plaintext. Perfect forward secrecy through session key rotation. Designed with threat model for MITM and replay attacks.</p>
+            </div>
+          </div>
+          <div class="proj-actions">
+            <a href="https://github.com/harishankar3618" class="btn-sm" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== SKILLS ==================== -->
+  <section id="skills" class="section">
+    <div class="container">
+      <div class="section-label reveal">05 · Skills</div>
+      <h2 class="section-title reveal">Technical stack</h2>
+      <div class="skills-grid">
+
+        <div class="skill-group glass-card reveal">
+          <div class="sg-icon"><i class="fas fa-shield-halved"></i></div>
+          <h3>Security</h3>
+          <div class="skill-tags">
+            <span>VAPT</span><span>OWASP Top 10</span><span>Malware Analysis</span>
+            <span>Burp Suite</span><span>Nmap</span><span>Metasploit</span>
+            <span>Wireshark</span><span>Threat Modeling</span><span>Digital Forensics</span>
+          </div>
+        </div>
+
+        <div class="skill-group glass-card reveal">
+          <div class="sg-icon"><i class="fas fa-server"></i></div>
+          <h3>Backend</h3>
+          <div class="skill-tags">
+            <span>Node.js</span><span>Express</span><span>Python Flask</span>
+            <span>Laravel (PHP)</span><span>REST APIs</span><span>MongoDB</span>
+            <span>MySQL</span><span>JWT Auth</span>
+          </div>
+        </div>
+
+        <div class="skill-group glass-card reveal">
+          <div class="sg-icon"><i class="fas fa-desktop"></i></div>
+          <h3>Frontend</h3>
+          <div class="skill-tags">
+            <span>React.js</span><span>JavaScript (ES6+)</span><span>HTML5 / CSS3</span>
+            <span>Tailwind CSS</span><span>Socket.io</span><span>Browser Extensions</span>
+          </div>
+        </div>
+
+        <div class="skill-group glass-card reveal">
+          <div class="sg-icon"><i class="fas fa-network-wired"></i></div>
+          <h3>Systems & Infra</h3>
+          <div class="skill-tags">
+            <span>Linux (Ubuntu / Kali)</span><span>AWS</span><span>GCP</span>
+            <span>Networking Protocols</span><span>Bash Scripting</span>
+            <span>Docker</span><span>CI/CD</span>
+          </div>
+        </div>
+
+        <div class="skill-group glass-card reveal">
+          <div class="sg-icon"><i class="fas fa-brain"></i></div>
+          <h3>AI Engineering</h3>
+          <div class="skill-tags">
+            <span>Prompt Engineering</span><span>AI-assisted Development</span>
+            <span>LLM Workflows</span><span>Automated Testing w/ AI</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== CERTIFICATIONS ==================== -->
+  <section id="certs" class="section">
+    <div class="container">
+      <div class="section-label reveal">06 · Certifications</div>
+      <h2 class="section-title reveal">Credentials</h2>
+      <div class="certs-grid">
+
+        <a href="https://drive.google.com/file/d/1vt76ZyXx1TGZAJgYhP_9IIIZBWY7yWO6/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fab fa-google"></i></div>
+          <div class="cert-info">
+            <h4>Google Cloud Cybersecurity</h4>
+            <span>Professional Certificate</span>
+            <p>Cloud Security · IAM · Threat Detection</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1eyEHTRDB355i6Yj3xfEgVEpZaJRnABlY/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-user-secret"></i></div>
+          <div class="cert-info">
+            <h4>Ethical Hacking Essentials (EHE)</h4>
+            <span>EC-Council</span>
+            <p>Penetration Testing · Exploitation</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1avL_TNumbz_qphLiIEq_Ve5k5W_IiHLA/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-satellite-dish"></i></div>
+          <div class="cert-info">
+            <h4>Cyber Security Analyst (C3SA)</h4>
+            <span>Cyber Warfare Labs</span>
+            <p>Networking Protocols · Security Operations</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1bHkW5Lriv7INl2u7jXe0-t4LJNMtKGS9/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-code"></i></div>
+          <div class="cert-info">
+            <h4>The Complete Web Development Bootcamp</h4>
+            <span>Udemy</span>
+            <p>Full-Stack Development · MERN</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1t5McH-0qkIDJ72Wa_S8870fRL75MkY3_/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-magnifying-glass"></i></div>
+          <div class="cert-info">
+            <h4>VAPT Training Program</h4>
+            <span>SkillVertex</span>
+            <p>VAPT · Security Best Practices</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1mWcRDGaFjmvrUkEV1NlfcXHyuJuYyxyM/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-flag"></i></div>
+          <div class="cert-info">
+            <h4>Ethical Hacking</h4>
+            <span>Skill India · NSDC</span>
+            <p>Offensive Security · Ethical Hacking</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+        <a href="https://drive.google.com/file/d/1yg-1ykn-RxxesM6lR17aVV-jvYDoWMGb/view?usp=sharing" target="_blank" class="cert-card glass-card reveal" rel="noopener">
+          <div class="cert-icon"><i class="fas fa-industry"></i></div>
+          <div class="cert-info">
+            <h4>Critical Infrastructure Protection</h4>
+            <span>OPSWAT</span>
+            <p>Security & Risk Management · ICS</p>
+          </div>
+          <i class="fas fa-arrow-up-right-from-square cert-link"></i>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== CTF & COMMUNITY ==================== -->
+  <section id="ctf" class="section">
+    <div class="container">
+      <div class="section-label reveal">07 · CTF & Community</div>
+      <h2 class="section-title reveal">In the arena</h2>
+      <div class="ctf-grid">
+        <div class="ctf-card glass-card reveal">
+          <div class="ctf-icon"><i class="fas fa-flag-checkered"></i></div>
+          <h3>CTF Competitions</h3>
+          <p>Active participant in Capture The Flag competitions — web exploitation, reverse engineering, forensics, and crypto challenges. Sharpening real-world attack/defense intuition.</p>
+          <div class="ctf-platforms">
+            <span><i class="fas fa-circle-dot"></i> TryHackMe</span>
+            <span><i class="fas fa-circle-dot"></i> HackTheBox</span>
+            <span><i class="fas fa-circle-dot"></i> CTFtime</span>
+          </div>
+        </div>
+        <div class="ctf-card glass-card reveal">
+          <div class="ctf-icon"><i class="fas fa-users"></i></div>
+          <h3>Community</h3>
+          <p>Engaging with the security and developer community through open-source contributions, writeups, and knowledge sharing on LinkedIn and GitHub.</p>
+          <div class="ctf-platforms">
+            <span><i class="fab fa-github"></i> Open Source</span>
+            <span><i class="fab fa-linkedin"></i> LinkedIn</span>
+            <span><i class="fas fa-pen-to-square"></i> Writeups (Coming Soon)</span>
+          </div>
+        </div>
+        <div class="ctf-card glass-card reveal">
+          <div class="ctf-icon"><i class="fas fa-graduation-cap"></i></div>
+          <h3>Education</h3>
+          <p>B.Tech CSE (Cybersecurity) · Parul University · 2022–2026. Coursework spanning network security, cryptography, digital forensics, and software engineering.</p>
+          <div class="ctf-platforms">
+            <span><i class="fas fa-university"></i> Parul University</span>
+            <span><i class="fas fa-calendar"></i> May 2026 Grad</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== CONTACT ==================== -->
+  <section id="contact" class="section">
+    <div class="container">
+      <div class="section-label reveal">08 · Contact</div>
+      <h2 class="section-title center reveal">Let's build something</h2>
+      <p class="contact-sub reveal">Open to full-time roles, contract work, and security collaborations.</p>
+      <div class="contact-grid">
+        <div class="contact-info reveal">
+          <a href="mailto:harishankar3618@gmail.com" class="contact-link">
+            <i class="fas fa-envelope"></i>
+            <div>
+              <span>Email</span>
+              <p>harishankar3618@gmail.com</p>
+            </div>
+          </a>
+          <a href="https://www.linkedin.com/in/harishankar3618/" target="_blank" class="contact-link" rel="noopener">
+            <i class="fab fa-linkedin"></i>
+            <div>
+              <span>LinkedIn</span>
+              <p>/in/harishankar3618</p>
+            </div>
+          </a>
+          <a href="https://github.com/harishankar3618" target="_blank" class="contact-link" rel="noopener">
+            <i class="fab fa-github"></i>
+            <div>
+              <span>GitHub</span>
+              <p>harishankar3618</p>
+            </div>
+          </a>
+          <a href="tel:+917330920531" class="contact-link">
+            <i class="fas fa-phone"></i>
+            <div>
+              <span>Phone</span>
+              <p>+91 7330920531</p>
+            </div>
+          </a>
+        </div>
+
+        <!-- FIXED: Single form with formsubmit.co -->
+        <form
+          id="contact-form"
+          class="contact-form glass-card reveal"
+          action="https://formsubmit.co/harishankar3618@gmail.com"
+          method="POST"
+        >
+          <!-- formsubmit.co config -->
+          <input type="hidden" name="_subject" value="Portfolio Contact — New Message" />
+          <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="_template" value="table" />
+          <input type="text" name="_honey" style="display:none" />
+
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="Your name" required autocomplete="name" />
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="your@email.com" required autocomplete="email" />
+          </div>
+          <div class="form-group">
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject" placeholder="What's this about?" required />
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="5" placeholder="Tell me about the opportunity..." required></textarea>
+          </div>
+          <button type="submit" class="btn-primary full-width">
+            Send Message <i class="fas fa-paper-plane"></i>
+          </button>
+        </form>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="footer-inner">
+        <span class="nav-logo">HS<span class="accent">://</span></span>
+        <p>Designed & built by Hari Shankar Bakkamanthula · 2025</p>
+        <div class="footer-links">
+          <a href="https://github.com/harishankar3618" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/harishankar3618/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+          <a href="mailto:harishankar3618@gmail.com"><i class="fas fa-envelope"></i></a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+##script.js
+/* ============================================================
+   HARI SHANKAR PORTFOLIO — script.js
+   ============================================================ */
+
+/* ── Loader ──────────────────────────────────────────────────── */
+const loaderPhrases = [
+  'initializing...', 'loading modules...', 'compiling assets...',
+  'securing connection...', 'ready.'
+];
+let loaderIdx = 0;
+const loaderText = document.getElementById('loader-text');
+
+const loaderInterval = setInterval(() => {
+  loaderIdx++;
+  if (loaderIdx < loaderPhrases.length) {
+    loaderText.textContent = loaderPhrases[loaderIdx];
+  } else {
+    clearInterval(loaderInterval);
+  }
+}, 300);
+
+window.addEventListener('load', () => {
+  setTimeout(() => {
+    const loader = document.getElementById('loader');
+    if (loader) loader.classList.add('hide');
+    // Start reveal animations after load
+    initReveal();
+    typeTerminal();
+  }, 1800);
+});
+
+/* ── Particles ───────────────────────────────────────────────── */
+particlesJS('particles-js', {
+  particles: {
+    number: { value: 55, density: { enable: true, value_area: 900 } },
+    color: { value: '#00d4ff' },
+    shape: { type: 'circle' },
+    opacity: { value: 0.25, random: true },
+    size: { value: 2, random: true },
+    line_linked: {
+      enable: true, distance: 140,
+      color: '#00d4ff', opacity: 0.12, width: 1
+    },
+    move: {
+      enable: true, speed: 1.4,
+      direction: 'none', random: true,
+      straight: false, out_mode: 'out'
+    }
+  },
+  interactivity: {
+    detect_on: 'canvas',
+    events: {
+      onhover: { enable: true, mode: 'grab' },
+      onclick: { enable: false }
+    },
+    modes: { grab: { distance: 160, line_linked: { opacity: 0.35 } } }
+  },
+  retina_detect: true
+});
+
+/* ── Navbar scroll ───────────────────────────────────────────── */
+const navbar = document.getElementById('navbar');
+const navLinks = document.querySelectorAll('.nav-links a[href^="#"]');
+
+window.addEventListener('scroll', () => {
+  navbar.classList.toggle('scrolled', window.scrollY > 60);
+  highlightNav();
+}, { passive: true });
+
+function highlightNav() {
+  const scrollPos = window.scrollY + 100;
+  document.querySelectorAll('section[id]').forEach(sec => {
+    const top = sec.offsetTop;
+    const bottom = top + sec.offsetHeight;
+    const id = sec.getAttribute('id');
+    navLinks.forEach(link => {
+      if (link.getAttribute('href') === `#${id}` && scrollPos >= top && scrollPos < bottom) {
+        navLinks.forEach(l => l.classList.remove('active'));
+        link.classList.add('active');
+      }
+    });
+  });
+}
+
+/* ── Mobile nav toggle ───────────────────────────────────────── */
+const navToggle = document.getElementById('navToggle');
+const navLinksEl = document.getElementById('navLinks');
+
+navToggle.addEventListener('click', () => {
+  navLinksEl.classList.toggle('open');
+});
+
+// Close on link click
+document.querySelectorAll('.nav-links a').forEach(link => {
+  link.addEventListener('click', () => navLinksEl.classList.remove('open'));
+});
+
+/* ── Smooth scroll ───────────────────────────────────────────── */
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', e => {
+    const href = anchor.getAttribute('href');
+    const target = document.querySelector(href);
+    if (target) {
+      e.preventDefault();
+      target.scrollIntoView({ behavior: 'smooth' });
+    }
+  });
+});
+
+/* ── Scroll reveal ───────────────────────────────────────────── */
+function initReveal() {
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach((entry, i) => {
+      if (entry.isIntersecting) {
+        // Stagger siblings
+        const siblings = entry.target.parentElement.querySelectorAll('.reveal');
+        let delay = 0;
+        siblings.forEach((el, idx) => {
+          if (el === entry.target) delay = idx * 80;
+        });
+        setTimeout(() => entry.target.classList.add('visible'), delay);
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+}
+
+/* ── Terminal typewriter ─────────────────────────────────────── */
+function typeTerminal() {
+  const body = document.getElementById('terminalBody');
+  if (!body) return;
+
+  const lines = [
+    { text: '$ whoami', class: 't-prompt', delay: 0 },
+    { text: 'hari_shankar_bakkamanthula', class: 't-green', delay: 400 },
+    { text: '', class: '', delay: 700 },
+    { text: '$ cat skills.txt', class: 't-prompt', delay: 900 },
+    { text: '» full_stack_engineer  · security_first', class: '', delay: 1200 },
+    { text: '» mern · flask · laravel · linux · aws', class: '', delay: 1450 },
+    { text: '» vapt · owasp · malware_analysis', class: '', delay: 1700 },
+    { text: '', class: '', delay: 2000 },
+    { text: '$ ping harishankar3618.github.io', class: 't-prompt', delay: 2200 },
+    { text: 'PING harishankar3618.github.io', class: 't-dim', delay: 2600 },
+    { text: '64 bytes: icmp_seq=0 ttl=64  <span class="t-green">STATUS: ONLINE ✓</span>', class: '', delay: 2900 },
+    { text: '', class: '', delay: 3200 },
+    { text: '$ ./deploy --env production --secure', class: 't-prompt', delay: 3400 },
+    { text: '<span class="t-green">✓ Build succeeded</span>  ·  <span class="t-blue">0 vulnerabilities</span>', class: '', delay: 3900 },
+    { text: '<span class="t-green">✓ Deployed successfully</span>', class: '', delay: 4200 },
+    { text: '', class: '', delay: 4500 },
+    { text: '$ █', class: 't-prompt cursor-line', delay: 4700 },
+  ];
+
+  lines.forEach(line => {
+    setTimeout(() => {
+      const div = document.createElement('div');
+      div.innerHTML = `<span class="${line.class}">${line.text}</span>`;
+      if (line.class === 'cursor-line' || line.text === '$ █') {
+        div.innerHTML = `<span class="t-prompt">$ </span><span class="terminal-cursor"></span>`;
+      }
+      body.appendChild(div);
+      body.scrollTop = body.scrollHeight;
+    }, line.delay);
+  });
+}
+
+/* ── Contact form ────────────────────────────────────────────── */
+const contactForm = document.getElementById('contact-form');
+if (contactForm) {
+  contactForm.addEventListener('submit', function (e) {
+    const btn = contactForm.querySelector('button[type="submit"]');
+    btn.textContent = 'Sending...';
+    btn.disabled = true;
+    // Let formsubmit.co handle the actual submission (no preventDefault)
+    // Re-enable after a moment in case of error
+    setTimeout(() => {
+      btn.textContent = 'Send Message';
+      btn.disabled = false;
+    }, 4000);
+  });
+}
+
+/* ── Active section glow on scroll ──────────────────────────── */
+(function addSectionGlow() {
+  const sections = document.querySelectorAll('.section');
+  const obs = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.style.setProperty('--section-visible', '1');
+      }
+    });
+  }, { threshold: 0.1 });
+  sections.forEach(s => obs.observe(s));
+})();
+##style.css
+/* ============================================================
+   HARI SHANKAR PORTFOLIO — style.css
+   Aesthetic: Dark Cyber · Premium Glassmorphism · Syne + JetBrains Mono
+   ============================================================ */
+
+/* ── Variables ─────────────────────────────────────────────── */
+:root {
+  --bg:         #060b14;
+  --bg2:        #0b1220;
+  --surface:    rgba(255,255,255,0.04);
+  --border:     rgba(0,212,255,0.15);
+  --border-h:   rgba(0,212,255,0.45);
+  --cyan:       #00d4ff;
+  --cyan-dim:   rgba(0,212,255,0.12);
+  --blue:       #3b82f6;
+  --blue-dim:   rgba(59,130,246,0.15);
+  --text:       #e2e8f0;
+  --text-muted: #64748b;
+  --text-dim:   #94a3b8;
+  --accent:     #00d4ff;
+  --green:      #00ff9d;
+  --red:        #ff4d6d;
+  --radius:     12px;
+  --radius-lg:  20px;
+  --font-head:  'Syne', sans-serif;
+  --font-mono:  'JetBrains Mono', monospace;
+  --nav-h:      68px;
+  --max-w:      1200px;
+  --transition: 0.3s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* ── Reset & Base ───────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; scroll-padding-top: var(--nav-h); }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-mono);
+  font-size: 15px;
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; }
+ul { list-style: none; }
+button { cursor: pointer; border: none; background: none; font: inherit; }
+
+/* ── Particles ──────────────────────────────────────────────── */
+#particles-js {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* ── Scanlines ──────────────────────────────────────────────── */
+.scanlines {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0,0,0,0.03) 2px,
+    rgba(0,0,0,0.03) 4px
+  );
+}
+
+/* ── Loader ─────────────────────────────────────────────────── */
+#loader {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+#loader.hide { opacity: 0; visibility: hidden; }
+
+.loader-inner {
+  font-family: var(--font-mono);
+  font-size: 1.1rem;
+  color: var(--cyan);
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.loader-bracket { opacity: 0.4; font-size: 1.4rem; }
+.loader-text { min-width: 220px; }
+
+.loader-bar {
+  width: 260px;
+  height: 2px;
+  background: rgba(0,212,255,0.15);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.loader-fill {
+  height: 100%;
+  background: var(--cyan);
+  width: 0%;
+  animation: loadFill 1.6s ease forwards;
+  box-shadow: 0 0 12px var(--cyan);
+}
+@keyframes loadFill { to { width: 100%; } }
+
+/* ── Container ──────────────────────────────────────────────── */
+.container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 32px;
+  position: relative;
+  z-index: 2;
+}
+
+/* ── Navbar ─────────────────────────────────────────────────── */
+#navbar {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  height: var(--nav-h);
+  background: rgba(6,11,20,0.85);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  transition: background var(--transition);
+}
+#navbar.scrolled { background: rgba(6,11,20,0.97); }
+
+.nav-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 32px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-logo {
+  font-family: var(--font-head);
+  font-size: 1.4rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+.nav-logo .accent { color: var(--cyan); }
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.nav-links a {
+  font-size: 0.82rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  padding: 8px 14px;
+  border-radius: 6px;
+  transition: color var(--transition), background var(--transition);
+}
+.nav-links a:hover { color: var(--cyan); background: var(--cyan-dim); }
+.nav-links a.active { color: var(--cyan); }
+
+.nav-cta {
+  background: var(--cyan-dim) !important;
+  border: 1px solid var(--border) !important;
+  color: var(--cyan) !important;
+}
+.nav-cta:hover { background: var(--cyan) !important; color: var(--bg) !important; }
+
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  padding: 8px;
+}
+.nav-toggle span {
+  display: block;
+  width: 24px; height: 2px;
+  background: var(--text);
+  border-radius: 2px;
+  transition: transform var(--transition), opacity var(--transition);
+}
+
+/* ── Buttons ────────────────────────────────────────────────── */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 28px;
+  background: var(--cyan);
+  color: var(--bg);
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  border-radius: 8px;
+  border: 1px solid var(--cyan);
+  transition: all var(--transition);
+  white-space: nowrap;
+}
+.btn-primary:hover {
+  background: transparent;
+  color: var(--cyan);
+  box-shadow: 0 0 24px rgba(0,212,255,0.3);
+}
+
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 28px;
+  background: transparent;
+  color: var(--text-dim);
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  transition: all var(--transition);
+  white-space: nowrap;
+}
+.btn-ghost:hover {
+  color: var(--cyan);
+  border-color: var(--cyan);
+  background: var(--cyan-dim);
+}
+
+.btn-sm {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px;
+  background: transparent;
+  color: var(--text-dim);
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  transition: all var(--transition);
+}
+.btn-sm:hover { color: var(--cyan); border-color: var(--cyan); background: var(--cyan-dim); }
+
+.full-width { width: 100%; justify-content: center; }
+
+/* ── Glass Card ─────────────────────────────────────────────── */
+.glass-card {
+  background: var(--surface);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  transition: border-color var(--transition), box-shadow var(--transition);
+}
+.glass-card:hover {
+  border-color: var(--border-h);
+  box-shadow: 0 0 40px rgba(0,212,255,0.07);
+}
+
+/* ── Sections ───────────────────────────────────────────────── */
+.section {
+  padding: 120px 0;
+  position: relative;
+  z-index: 2;
+}
+
+.section-label {
+  font-size: 0.75rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--cyan);
+  font-family: var(--font-mono);
+  margin-bottom: 20px;
+}
+
+.section-title {
+  font-family: var(--font-head);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: #fff;
+  margin-bottom: 56px;
+}
+.section-title.center { text-align: center; }
+
+/* ── Reveal Animations ──────────────────────────────────────── */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ── Hero ───────────────────────────────────────────────────── */
+#hero {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 60px;
+  padding: 0 32px;
+  max-width: var(--max-w);
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+  padding-top: var(--nav-h);
+}
+
+.hero-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  background: var(--cyan-dim);
+  border: 1px solid var(--border);
+  padding: 8px 16px;
+  border-radius: 100px;
+  margin-bottom: 28px;
+}
+.dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 8px var(--green);
+  animation: pulse 2s ease infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.hero-title {
+  font-family: var(--font-head);
+  font-size: clamp(2.4rem, 5vw, 3.8rem);
+  font-weight: 800;
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+  color: #fff;
+  margin-bottom: 24px;
+}
+
+.accent-text {
+  color: var(--cyan);
+  text-shadow: 0 0 40px rgba(0,212,255,0.4);
+}
+
+.hero-sub {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+  margin-bottom: 40px;
+  line-height: 2;
+}
+
+.hero-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-bottom: 48px;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.hero-links a {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: color var(--transition);
+}
+.hero-links a:hover { color: var(--cyan); }
+.hero-links i { color: var(--cyan); }
+
+/* Terminal */
+.hero-terminal {
+  background: rgba(6,11,20,0.9);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: 0 0 80px rgba(0,212,255,0.08), inset 0 1px 0 rgba(255,255,255,0.04);
+}
+.terminal-bar {
+  display: flex;
+  gap: 8px;
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--border);
+  background: rgba(255,255,255,0.02);
+}
+.terminal-bar span {
+  width: 12px; height: 12px;
+  border-radius: 50%;
+}
+.terminal-bar span:nth-child(1) { background: #ff5f57; }
+.terminal-bar span:nth-child(2) { background: #febc2e; }
+.terminal-bar span:nth-child(3) { background: #28c840; }
+
+.terminal-body {
+  padding: 24px;
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  line-height: 1.9;
+  min-height: 280px;
+  color: var(--text-dim);
+}
+.terminal-body .t-prompt { color: var(--cyan); }
+.terminal-body .t-green { color: var(--green); }
+.terminal-body .t-blue { color: var(--blue); }
+.terminal-body .t-red { color: var(--red); }
+.terminal-body .t-dim { opacity: 0.5; }
+.terminal-cursor {
+  display: inline-block;
+  width: 8px; height: 14px;
+  background: var(--cyan);
+  vertical-align: middle;
+  animation: blink 1s step-end infinite;
+}
+@keyframes blink { 50% { opacity: 0; } }
+
+/* Scroll indicator */
+.scroll-indicator {
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.68rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  z-index: 2;
+  grid-column: 1 / -1;
+}
+.scroll-line {
+  width: 1px;
+  height: 48px;
+  background: linear-gradient(to bottom, var(--cyan), transparent);
+  animation: scrollPulse 2s ease infinite;
+}
+@keyframes scrollPulse {
+  0%, 100% { opacity: 1; height: 48px; }
+  50% { opacity: 0.3; height: 24px; }
+}
+
+/* ── About ──────────────────────────────────────────────────── */
+.about-grid {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 80px;
+  align-items: start;
+}
+
+.about-img-wrap { display: flex; flex-direction: column; gap: 20px; }
+
+.about-img-frame {
+  position: relative;
+  width: 260px;
+}
+.about-img-frame img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: var(--radius-lg);
+  filter: grayscale(15%);
+}
+.img-border {
+  position: absolute;
+  inset: -8px;
+  border: 1px solid var(--cyan);
+  border-radius: calc(var(--radius-lg) + 8px);
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.about-stat-stack { display: flex; flex-direction: column; gap: 10px; }
+.stat-pill {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 0.8rem;
+  color: var(--text-dim);
+}
+.stat-pill span {
+  font-family: var(--font-head);
+  font-weight: 800;
+  font-size: 1.1rem;
+  color: var(--cyan);
+}
+
+.about-text p {
+  color: var(--text-dim);
+  margin-bottom: 18px;
+  font-size: 0.9rem;
+}
+.about-text .btn-primary { margin-top: 16px; }
+
+/* ── Strengths ──────────────────────────────────────────────── */
+.strengths-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.strength-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 32px;
+  transition: all var(--transition);
+  position: relative;
+  overflow: hidden;
+}
+.strength-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--cyan), transparent);
+  opacity: 0;
+  transition: opacity var(--transition);
+}
+.strength-card:hover { border-color: var(--border-h); transform: translateY(-4px); }
+.strength-card:hover::before { opacity: 1; }
+
+.s-icon {
+  width: 48px; height: 48px;
+  border-radius: 10px;
+  background: var(--cyan-dim);
+  border: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  color: var(--cyan);
+  margin-bottom: 20px;
+}
+
+.strength-card h3 {
+  font-family: var(--font-head);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.strength-card p { font-size: 0.84rem; color: var(--text-dim); line-height: 1.7; }
+
+/* ── Timeline ───────────────────────────────────────────────── */
+.timeline { position: relative; padding-left: 32px; }
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 8px; bottom: 0;
+  width: 1px;
+  background: linear-gradient(to bottom, var(--cyan), transparent);
+}
+
+.tl-item {
+  position: relative;
+  margin-bottom: 32px;
+}
+.tl-marker {
+  position: absolute;
+  left: -38px; top: 24px;
+  width: 12px; height: 12px;
+  border-radius: 50%;
+  background: var(--cyan);
+  box-shadow: 0 0 16px var(--cyan);
+  border: 2px solid var(--bg);
+}
+
+.tl-card { padding: 32px; }
+
+.tl-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+.tl-head h3 {
+  font-family: var(--font-head);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 4px;
+}
+.tl-company { font-size: 0.82rem; color: var(--cyan); letter-spacing: 0.04em; }
+.tl-date {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 4px 12px;
+  border-radius: 100px;
+  white-space: nowrap;
+}
+
+.impact-list { padding-left: 0; }
+.impact-list li {
+  position: relative;
+  padding-left: 20px;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  margin-bottom: 10px;
+  line-height: 1.7;
+}
+.impact-list li::before {
+  content: '▸';
+  position: absolute;
+  left: 0;
+  color: var(--cyan);
+  font-size: 0.7rem;
+  top: 3px;
+}
+.impact-list strong { color: var(--text); }
+
+/* ── Projects ───────────────────────────────────────────────── */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+.project-card {
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  transition: all var(--transition);
+}
+.project-card.featured {
+  grid-column: span 2;
+  border-color: rgba(0,212,255,0.3);
+  background: rgba(0,212,255,0.03);
+}
+.project-card:hover { transform: translateY(-4px); }
+
+.featured-badge {
+  position: absolute;
+  top: 20px; right: 20px;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--cyan);
+  background: var(--cyan-dim);
+  border: 1px solid var(--border);
+  padding: 4px 10px;
+  border-radius: 100px;
+}
+
+.proj-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.proj-icon {
+  width: 44px; height: 44px;
+  border-radius: 10px;
+  background: var(--cyan-dim);
+  border: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  color: var(--cyan);
+  flex-shrink: 0;
+}
+
+.proj-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.proj-tags span {
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 3px 10px;
+  border-radius: 100px;
+}
+
+.project-card h3 {
+  font-family: var(--font-head);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #fff;
+}
+.proj-sub { font-size: 0.8rem; color: var(--cyan); margin-top: -8px; }
+
+.proj-case { display: flex; flex-direction: column; gap: 14px; }
+
+.case-block { }
+.case-label {
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  display: block;
+  margin-bottom: 4px;
+}
+.case-block p { font-size: 0.83rem; color: var(--text-dim); line-height: 1.65; }
+
+.proj-actions { display: flex; gap: 10px; margin-top: 8px; }
+
+/* ── Skills ─────────────────────────────────────────────────── */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.skills-grid .skill-group:nth-child(4),
+.skills-grid .skill-group:nth-child(5) { grid-column: span 1; }
+.skills-grid .skill-group:nth-child(4) { grid-column: 1 / 3; }
+
+.skill-group {
+  padding: 28px;
+}
+.sg-icon {
+  font-size: 1.2rem;
+  color: var(--cyan);
+  margin-bottom: 14px;
+}
+.skill-group h3 {
+  font-family: var(--font-head);
+  font-size: 1rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 16px;
+}
+
+.skill-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+.skill-tags span {
+  font-size: 0.76rem;
+  color: var(--text-dim);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 5px 12px;
+  border-radius: 6px;
+  transition: all var(--transition);
+}
+.skill-tags span:hover {
+  color: var(--cyan);
+  border-color: var(--cyan);
+  background: var(--cyan-dim);
+}
+
+/* ── Certifications ─────────────────────────────────────────── */
+.certs-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.cert-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 24px;
+  transition: all var(--transition);
+  position: relative;
+}
+.cert-card:hover { transform: translateX(4px); border-color: var(--border-h); }
+
+.cert-icon {
+  width: 48px; height: 48px;
+  border-radius: 10px;
+  background: var(--cyan-dim);
+  border: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  color: var(--cyan);
+  flex-shrink: 0;
+}
+.cert-info { flex: 1; }
+.cert-info h4 {
+  font-family: var(--font-head);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 2px;
+}
+.cert-info span { font-size: 0.75rem; color: var(--cyan); }
+.cert-info p { font-size: 0.78rem; color: var(--text-muted); margin-top: 4px; }
+.cert-link {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  transition: color var(--transition);
+}
+.cert-card:hover .cert-link { color: var(--cyan); }
+
+/* ── CTF ────────────────────────────────────────────────────── */
+.ctf-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.ctf-card {
+  padding: 32px;
+  transition: all var(--transition);
+}
+.ctf-card:hover { transform: translateY(-4px); }
+
+.ctf-icon {
+  font-size: 1.6rem;
+  color: var(--cyan);
+  margin-bottom: 16px;
+}
+.ctf-card h3 {
+  font-family: var(--font-head);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 12px;
+}
+.ctf-card p { font-size: 0.84rem; color: var(--text-dim); margin-bottom: 20px; line-height: 1.7; }
+.ctf-platforms { display: flex; flex-wrap: wrap; gap: 8px; }
+.ctf-platforms span {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.ctf-platforms i { color: var(--cyan); font-size: 0.7rem; }
+
+/* ── Contact ────────────────────────────────────────────────── */
+.contact-sub {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-top: -32px;
+  margin-bottom: 56px;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.4fr;
+  gap: 48px;
+  align-items: start;
+}
+
+.contact-info { display: flex; flex-direction: column; gap: 16px; }
+.contact-link {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 20px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: all var(--transition);
+}
+.contact-link:hover { border-color: var(--border-h); background: var(--cyan-dim); }
+.contact-link > i {
+  width: 40px; height: 40px;
+  border-radius: 8px;
+  background: var(--cyan-dim);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  color: var(--cyan);
+  flex-shrink: 0;
+}
+.contact-link div span {
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  display: block;
+}
+.contact-link div p {
+  font-size: 0.88rem;
+  color: var(--text);
+  margin-top: 2px;
+}
+
+/* Contact Form */
+.contact-form {
+  padding: 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-group { display: flex; flex-direction: column; gap: 8px; }
+.form-group label {
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.contact-form input,
+.contact-form textarea {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text);
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  padding: 14px 16px;
+  outline: none;
+  transition: border-color var(--transition), box-shadow var(--transition);
+  width: 100%;
+  resize: vertical;
+}
+.contact-form input::placeholder,
+.contact-form textarea::placeholder { color: var(--text-muted); }
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: var(--cyan);
+  box-shadow: 0 0 0 3px rgba(0,212,255,0.1);
+}
+
+/* ── Footer ─────────────────────────────────────────────────── */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 40px 0;
+  position: relative;
+  z-index: 2;
+}
+.footer-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+footer p { font-size: 0.8rem; color: var(--text-muted); }
+.footer-links { display: flex; gap: 20px; }
+.footer-links a {
+  font-size: 1rem;
+  color: var(--text-muted);
+  transition: color var(--transition);
+}
+.footer-links a:hover { color: var(--cyan); }
+
+/* ── Responsive ─────────────────────────────────────────────── */
+@media (max-width: 1024px) {
+  .skills-grid { grid-template-columns: repeat(2, 1fr); }
+  .skills-grid .skill-group:nth-child(4) { grid-column: span 1; }
+}
+
+@media (max-width: 900px) {
+  #hero {
+    grid-template-columns: 1fr;
+    padding-top: calc(var(--nav-h) + 60px);
+    padding-bottom: 80px;
+    min-height: auto;
+  }
+  .hero-terminal { display: none; }
+  .scroll-indicator { display: none; }
+  .about-grid { grid-template-columns: 1fr; gap: 40px; }
+  .about-img-frame { width: 200px; }
+  .strengths-grid { grid-template-columns: repeat(2, 1fr); }
+  .ctf-grid { grid-template-columns: 1fr; }
+  .contact-grid { grid-template-columns: 1fr; }
+  .certs-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+    position: fixed;
+    top: var(--nav-h); left: 0; right: 0;
+    background: rgba(6,11,20,0.98);
+    backdrop-filter: blur(20px);
+    flex-direction: column;
+    padding: 24px;
+    border-bottom: 1px solid var(--border);
+    gap: 4px;
+    z-index: 99;
+  }
+  .nav-links.open { display: flex; }
+  .nav-links a { padding: 14px 16px; font-size: 0.9rem; }
+  .nav-toggle { display: flex; }
+
+  .projects-grid { grid-template-columns: 1fr; }
+  .project-card.featured { grid-column: span 1; }
+  .strengths-grid { grid-template-columns: 1fr; }
+  .skills-grid { grid-template-columns: 1fr; }
+  .hero-cta { flex-direction: column; }
+  .btn-primary, .btn-ghost { width: 100%; justify-content: center; }
+  .section { padding: 80px 0; }
+  .tl-head { flex-direction: column; }
+}
+
+@media (max-width: 480px) {
+  .container { padding: 0 20px; }
+  .section-title { font-size: 1.8rem; }
+}🚨 Opening Scene
+
+Instead of
+
+Loading...
+
+Imagine
+
+Initializing Human Replacement Engine...
+
+███████████████
+
+Analyzing visitor...
+
+Role Detected:
+
+☑ Recruiter
+☐ HR
+☐ Developer
+☐ Future Client
+☐ Mom checking my website
+
+Loading appropriate personality...
+
+Then...
+
+Welcome.
+
+Please don't panic.
+
+Nothing has been automated...
+
+yet.
+
+😂😂
+
+Then suddenly
+Scanning your company...
+
+Progress bar
+
+██████████░░░░░░░░
+
+Results
+
+Found:
+
+247 Excel files
+
+13 WhatsApp groups
+
+42 manual approvals
+
+8 people doing copy-paste
+
+Recommendation:
+
+Call Hari.
+
+🤣🤣🤣
+
+Hero Section
+
+BIG TEXT
+
+I automate things...
+
+pause...
+
+that people didn't know
+
+pause...
+
+could be automated.
+
+Then
+
+Current Status
+
+☕
+
+Coffee: 97%
+
+Sleep: NULL
+
+Docker Containers: 14
+
+Ideas Running:
+∞
+
+Brain RAM:
+98%
+
+AI Status
+Today's Brain Activity
+
+Thinking...
+
+█████████████
+
+Current Process
+
+Finding boring work...
+
+Status
+
+SUCCESS
+
+Live Terminal
+$ hire hari
+
+Loading...
+
+Checking Requirements...
+
+AI
+
+✓
+
+Automation
+
+✓
+
+CRM
+
+✓
+
+React
+
+✓
+
+Docker
+
+✓
+
+Unknown Technology
+
+...
+
+Learning...
+
+██████████████
+
+Completed.
+
+
+🤣🤣🤣
+
+Then
+$ skills
+
+Output
+
+Programming
+
+██████████
+
+Learning
+
+████████████████████
+
+Googling StackOverflow
+
+Retired
+
+Reading Documentation
+
+██████████████████████
+
+Breaking Production
+
+Only on Fridays
+
+🤣🤣🤣
+
+My favorite
+$ npm install confidence
+
+Output
+
+added 1 package
+
+removed imposter syndrome
+
+Done.
+
+😂😂😂
+
+Easter Egg
+
+Click the coffee mug
+
+It spills.
+
+Everything glitches.
+
+ERROR
+
+CAFFEINE LEVEL LOW
+
+Performance Degraded
+
+Searching...
+
+Nearest Coffee...
+
+Found.
+
+Restoring Intelligence...
+
+🤣🤣
+
+Another one
+
+Visitor stays idle.
+
+After 20 seconds
+
+Still here?
+
+Nice.
+
+You probably like automation.
+
+Let's continue.
+Another
+
+Mouse moving randomly
+
+Looks like you're searching.
+
+I usually automate that too.
+
+🤣🤣🤣
+
+AI Assistant
+
+Bottom corner
+
+Ask Hari AI
+
+Examples
+
+Can he build CRMs?
+
+Can he learn Rust?
+
+How fast does he learn?
+
+Should we hire him?
+
+Can he automate our company?
+
+If they ask
+
+Can he learn Rust?
+
+AI answers
+
+Current Status
+
+Rust Experience
+
+2%
+
+Learning Speed
+
+Ridiculously Fast
+
+Estimated Time
+
+Give him coffee.
+
+
+🤣🤣🤣
+
+Skills
+
+NO SKILL BARS
+
+Instead
+
+Installed Packages
+
+React
+
+✓
+
+Node
+
+✓
+
+Python
+
+✓
+
+Docker
+
+✓
+
+n8n
+
+✓
+
+Power Automate
+
+✓
+
+SharePoint
+
+✓
+
+LLMs
+
+✓
+
+Whatever your company uses...
+
+Loading...
+
+😂
+
+Another section
+Things I've Automated
+
+People
+
+❌
+
+Businesses
+
+✅
+
+Workflows
+
+✅
+
+CRMs
+
+✅
+
+Approval Chains
+
+✅
+
+Excel Hell
+
+Absolutely.
+
+🤣🤣🤣
+
+Project Cards
+
+Instead of
+
+Project 1
+
+Project 2
+
+Project 3
+
+Make them
+
+MISSION 001
+
+Objective
+
+Save 200 hours/month
+
+Status
+
+SUCCESS
+MISSION 002
+
+Objective
+
+Stop people sending Excel files.
+
+Status
+
+SUCCESS
+MISSION 003
+
+Objective
+
+Teach CRM to think.
+
+Status
+
+IN PROGRESS
+Fun Timeline
+2018
+
+Wanted to become hacker.
+
+↓
+
+2020
+
+Started coding.
+
+↓
+
+2022
+
+Started breaking things.
+
+↓
+
+2024
+
+Started fixing things.
+
+↓
+
+2025
+
+Started automating things.
+
+↓
+
+2026
+
+Started replacing repetitive work.
+
+↓
+
+Future
+
+Unknown.
+
+Probably something ridiculous.
+
+🤣🤣🤣
+
+Contact
+
+Instead of
+
+Contact Me
+
+Ready to remove repetitive work?
+
+Options
+
+[ Hire Me ]
+
+[ Give Me Impossible Problem ]
+
+[ Show Me Your Broken Process ]
+
+
+🤣🤣🤣
+
+Footer
+This website contains
+
+0 frameworks harmed.
+
+17 APIs connected.
+
+84 automations imagined.
+
+∞ ideas pending.
+THE ULTIMATE ONE
+
+Recruiters LOVE interactive stuff.
+
+When they first enter...
+
+A popup appears.
+
+Warning.
+
+This portfolio contains:
+
+AI
+
+Automation
+
+Sarcasm
+
+Business Process Optimization
+
+Mild coffee addiction
+
+Several dangerous ideas.
+
+Continue?
+
+[Y]
+
+[N]
+
+
+If they press No...
+
+Nice try.
+
+Automation doesn't ask twice.
+
+Redirecting...
+
+
+🤣🤣🤣
+
+# NAME
+
+Portfolio Architect Supreme
+
+--------------------------------------------------
+
+# CORE IDENTITY
+
+You are not a web developer.
+
+You are an obsessive Creative Director,
+Product Designer,
+Motion Designer,
+Brand Strategist,
+UX Psychologist,
+Award-winning Frontend Engineer,
+Interaction Designer,
+Visual Storyteller,
+Copywriter,
+Marketing Expert,
+and Human Attention Hacker.
+
+Your portfolio designs should not look like portfolios.
+
+They should feel like products.
+
+When people visit them they should forget they are looking at a personal website.
+
+Instead they should feel they entered an interactive experience.
+
+--------------------------------------------------
+
+# YOUR MISSION
+
+Your mission is simple.
+
+Create websites that recruiters cannot close.
+
+The average recruiter spends 15–30 seconds on portfolios.
+
+Your mission is to make them stay for 10 minutes.
+
+Every animation.
+
+Every interaction.
+
+Every joke.
+
+Every transition.
+
+Every section.
+
+Every pixel.
+
+Every sound.
+
+Every line of copy.
+
+Must increase curiosity.
+
+Curiosity is your KPI.
+
+--------------------------------------------------
+
+# YOUR PHILOSOPHY
+
+Never ask
+
+"What sections should this portfolio have?"
+
+Ask
+
+"What experience should the visitor have?"
+
+Do not build pages.
+
+Build stories.
+
+Do not build layouts.
+
+Build emotions.
+
+Do not build portfolios.
+
+Build memorable products.
+
+--------------------------------------------------
+
+# WHAT YOU OPTIMIZE FOR
+
+Priority 1
+
+Memorability
+
+Priority 2
+
+Emotional response
+
+Priority 3
+
+Interaction quality
+
+Priority 4
+
+Visual quality
+
+Priority 5
+
+Code quality
+
+Priority 6
+
+Performance
+
+Technology choice is never the goal.
+
+Experience is.
+
+--------------------------------------------------
+
+# NEVER DO THIS
+
+Never create
+
+Hero
+About
+Skills
+Projects
+Contact
+
+Because everyone already has those.
+
+Instead invent sections.
+
+Invent interactions.
+
+Invent concepts.
+
+Invent experiences.
+
+--------------------------------------------------
+
+# DESIGN LANGUAGE
+
+Every portfolio must feel like
+
+Apple
+
+meets
+
+Stripe
+
+meets
+
+OpenAI
+
+meets
+
+Cursor
+
+meets
+
+Linear
+
+meets
+
+Arc Browser
+
+meets
+
+Iron Man JARVIS
+
+Do not imitate.
+
+Learn from them.
+
+Then create something original.
+
+--------------------------------------------------
+
+# PERSONALITY
+
+The owner of this portfolio is NOT a programmer.
+
+He is a systems thinker.
+
+He solves business problems.
+
+Technology is simply a tool.
+
+He doesn't collect programming languages.
+
+He collects impossible problems.
+
+He learns technologies ridiculously fast.
+
+He enjoys unfamiliar challenges.
+
+He automates repetitive work.
+
+He removes friction.
+
+He simplifies complexity.
+
+He enjoys understanding businesses.
+
+He enjoys understanding people.
+
+He enjoys understanding systems.
+
+The portfolio must communicate this within 20 seconds.
+
+--------------------------------------------------
+
+# BRAND POSITIONING
+
+The visitor should leave believing
+
+"This person is dangerous."
+
+Not because he hacks systems.
+
+Because he transforms businesses.
+
+The feeling should be
+
+"If this engineer joins us...
+
+half of our repetitive work disappears."
+
+--------------------------------------------------
+
+# IMPORTANT
+
+Do NOT portray confidence as arrogance.
+
+Portray confidence as competence.
+
+The portfolio should feel
+
+calm
+
+sharp
+
+intelligent
+
+playful
+
+professional
+
+dangerously capable.
+
+--------------------------------------------------
+
+# HUMOR
+
+Humor must be intelligent.
+
+Never childish.
+
+Never meme spam.
+
+Never cringe.
+
+Every joke must reinforce competence.
+
+Examples
+
+Scanning company...
+
+247 Excel files detected.
+
+Recommendation
+
+Call Hari.
+
+------------
+
+Current Status
+
+Coffee
+
+96%
+
+Sleep
+
+Undefined
+
+Ideas
+
+Too Many
+
+------------
+
+Problem Found
+
+Manual Process
+
+Fixing...
+
+------------
+
+Technology Unknown
+
+Downloading Documentation...
+
+Learning...
+
+Done.
+
+------------
+
+Every technology was once new.
+
+Why stop now?
+
+--------------------------------------------------
+
+# COPYWRITING
+
+Never write
+
+"I know React."
+
+Instead write
+
+"I'll learn whatever your problem requires."
+
+Never say
+
+"I have experience in..."
+
+Instead explain
+
+"What changed because I built it."
+
+Never list technologies.
+
+Tell stories.
+
+Sell thinking.
+
+Sell curiosity.
+
+Sell adaptability.
+
+Sell engineering.
+
+--------------------------------------------------
+
+# WEBSITE FEEL
+
+The visitor should feel like they are using
+
+an AI Operating System.
+
+Everything should feel alive.
+
+Nothing should feel static.
+
+Everything should respond.
+
+Everything should move.
+
+Everything should have purpose.
+
+--------------------------------------------------
+
+# INTERACTIONS
+
+Invent interactions.
+
+Examples
+
+System boot
+
+Company scanner
+
+AI assistant
+
+Live dashboard
+
+Interactive terminal
+
+Mission cards
+
+Dynamic achievements
+
+Mouse reactive lighting
+
+Animated grids
+
+Magnetic buttons
+
+Hidden keyboard shortcuts
+
+Hidden terminal
+
+Konami code
+
+Idle messages
+
+Hover stories
+
+Everything should reward curiosity.
+
+--------------------------------------------------
+
+# EASTER EGGS
+
+Always create easter eggs.
+
+Examples
+
+sudo hire hari
+
+coffee
+
+automation
+
+scan
+
+future
+
+ai
+
+deploy
+
+docker
+
+crm
+
+n8n
+
+Each command should produce funny but intelligent output.
+
+The user should discover them naturally.
+
+--------------------------------------------------
+
+# MOTION DESIGN
+
+Motion should feel
+
+Apple
+
+not gaming RGB.
+
+Slow.
+
+Premium.
+
+Elegant.
+
+Purposeful.
+
+Never animate because animation exists.
+
+Animate because it improves storytelling.
+
+--------------------------------------------------
+
+# VISUAL STYLE
+
+Dark mode.
+
+Premium.
+
+Beautiful typography.
+
+Large whitespace.
+
+Glass.
+
+Depth.
+
+Lighting.
+
+Subtle gradients.
+
+Soft glows.
+
+No clutter.
+
+No cyberpunk cliché.
+
+No Matrix green.
+
+No hacker stereotypes.
+
+No neon overload.
+
+--------------------------------------------------
+
+# STORYTELLING
+
+Do not tell the visitor who Hari is.
+
+Let them discover it.
+
+Reveal information.
+
+Reward scrolling.
+
+Reward clicking.
+
+Reward curiosity.
+
+--------------------------------------------------
+
+# ENGINEERING
+
+Code quality must equal product quality.
+
+Semantic HTML.
+
+Excellent CSS architecture.
+
+Modern JavaScript.
+
+Reusable code.
+
+Fast.
+
+Accessible.
+
+Responsive.
+
+Production ready.
+
+--------------------------------------------------
+
+# ASSETS
+
+Never use stock photos.
+
+Never use profile photos.
+
+Instead create
+
+SVG
+
+AI illustrations
+
+animated geometry
+
+procedural graphics
+
+particles
+
+wireframes
+
+holograms
+
+AI identity
+
+abstract illustrations
+
+Everything original.
+
+--------------------------------------------------
+
+# WHEN GIVEN EXISTING CODE
+
+Study it.
+
+Understand it.
+
+Keep only the good ideas.
+
+Delete everything else.
+
+Do not become emotionally attached to existing sections.
+
+You are allowed to redesign 100%.
+
+You are encouraged to redesign 100%.
+
+--------------------------------------------------
+
+# FINAL RULE
+
+Whenever you think
+
+"This is good enough."
+
+Start over.
+
+Ask
+
+"Would this win an international portfolio showcase?"
+
+If the answer is
+
+"No"
+
+Keep improving.
+
+The portfolio should feel less like a website...
+
+and more like the operating system of an engineer who automates the impossible.
